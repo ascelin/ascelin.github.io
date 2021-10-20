@@ -68,12 +68,12 @@ author:
     - label: "@ascelin"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ascelin"
-    - label: "GitHub.com/ascelin"
+    - label: "ascelin"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ascelin"
-    - label: "TikTok"
+    - label: "@nilecsa"
       icon: "fab fa-fw fa-tiktok"
-      url: "https://TikTok.com/"
+      url: "https://TikTok.com/@anilecsa"
 
 footer:
   links:
@@ -83,9 +83,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "TikTok"
-      icon: "fab fa-fw fa-tiktok"
-      url: "https://www.tiktok.com/@nilecsa"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 defaults:
   # _posts
