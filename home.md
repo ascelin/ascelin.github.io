@@ -14,9 +14,9 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: ""
-    title: "My resaercg"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/pages/research/"
+    title: "My resaerch"
+    excerpt: "This is all about the research I do ! Yes I do lots"
+    url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Research"
   - image_path: /assets/images/mm-responsive-feature.png
