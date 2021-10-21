@@ -76,7 +76,7 @@ author:
       url: "https://github.com/ascelin"
     - label: "@nilecsa"
       icon: "fab fa-fw fa-tiktok"
-      url: "https://TikTok.com/@anilecsa"
+      url: "https://TikTok.com/@nilecsa"
 
 footer:
   links:
@@ -96,7 +96,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: true
