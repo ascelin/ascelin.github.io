@@ -3,7 +3,9 @@ permalink: /publications/
 title: "Publications"
 ---
 
-## Peer reviewed journal articles
+## Peer-reviewed journal articles
+
+### 2021
 
 Damiens F., Backstrom A., **Gordon A.** (2021) Governing for ‘no net loss’ of biodiversity over the long-term: challenges and pathways forward. ***One Earth***. 4: P60-74. doi:[10.1016/j.oneear.2020.12.012](http://dx.doi.org/10.1016/j.oneear.2020.12.012)
 
