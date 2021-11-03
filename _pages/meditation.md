@@ -4,4 +4,4 @@ title: "Meditation"
 ---
 
 
-[Guerrilla Meditation](https://www.facebook.com/GuerrillaMeditation)
+[Guerrilla Meditation](https://www.facebook.com/GuerrillaMeditation){:target="_blank"}
