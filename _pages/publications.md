@@ -6,7 +6,7 @@ title: "Publications"
 ## Peer-reviewed journal articles
 
 
-**Book chapters - test**
+**Book chapters**
 
 1.  Ives C.D., Beilin R., **Gordon A.**, Kendal D., Hahs A.,
     McDonnell M. (2013) Local Assessment of Melbourne: The Biodiversity
