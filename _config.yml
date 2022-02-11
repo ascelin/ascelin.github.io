@@ -63,10 +63,10 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-link"
       url: "https://"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-scholar"
+      icon: "fab fa-fw fa-scholar"
       url: "https://scholar.google.com.au/citations?hl=en&user=i__S3WoAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
     - label: "@ascelin"
       icon: "fab fa-fw fa-twitter-square"
