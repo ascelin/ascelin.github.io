@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/rocks-unsplash.jpg
  
 excerpt: >
-  Conservation Science | Ecological Modelling | Impact Evaluation\ 
+  Conservation Science | Ecological Modelling | Impact Evaluation  
   Policy | Meditation | World Music | (he/him)
 
 
@@ -35,4 +35,3 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-{% include feature_row %}
