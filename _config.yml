@@ -16,9 +16,8 @@
 title:
 email: ascelin.gordon@rmit.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Academic at RMIT University undertaking teaching and resaerch in conservation sceince, sustainability, environmental policy.  
+  
 twitter_username: ascelin
 github_username: ascelin
 minimal_mistakes_skin: dark
@@ -62,9 +61,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fab fa-fw fa-link"
-      url: "https://"
+#    - label: "Website"
+#      icon: "fab fa-fw fa-link"
+#      url: "https://"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-scholar"
       url: "https://scholar.google.com.au/citations?hl=en&user=i__S3WoAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
@@ -85,10 +84,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/ascelin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ascelin"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"

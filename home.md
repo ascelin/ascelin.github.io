@@ -7,8 +7,7 @@ header:
   overlay_image: /assets/images/rocks-unsplash.jpg
  
 excerpt: >
-  "Conservation Science | Ecological Modelling | Impact Evaluation<br>  
-  Policy | Meditation | World Music | (he/him)"
+  "Conservation Science | Ecological Modelling | Impact Evaluation<br>Policy | Meditation | World Music | (he/him)"
 
 
 feature_row:
