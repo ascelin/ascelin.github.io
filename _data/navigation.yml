@@ -1,6 +1,6 @@
 main:
-  - title: "About"
-    url: /about/
+  - title: "Posts"
+    url: /posts/
   - title: "Research"
     url: /research/
   - title: "Publications"
@@ -9,8 +9,10 @@ main:
     url: /meditation/
   - title: "Music"
     url: /music/
-  - title: "Posts"
-    url: /posts/
+  - title: "Opportunities"
+    url: /opportunities/
+  - title: "About"
+    url: /about/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
