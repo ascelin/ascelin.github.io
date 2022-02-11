@@ -5,11 +5,10 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/rocks-unsplash.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+ 
 excerpt: >
-  Conservation Science | Ecological Modelling | Impact Evaluation |  Policy | Meditation | World Music | (he/him)
+  Conservation Science | Ecological Modelling | Impact Evaluation
+  Policy | Meditation | World Music | (he/him)
 
 
 feature_row:
