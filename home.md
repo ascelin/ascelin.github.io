@@ -9,8 +9,9 @@ header:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  What can I put here? Some catchy phrase about me?"<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  Conservation Science | Ecological Modelling | Impact Evaluation |  Policy | Meditation | World Music | (he/him)
+
+
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: ""
