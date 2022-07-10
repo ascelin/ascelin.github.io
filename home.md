@@ -7,13 +7,13 @@ header:
   overlay_image: /assets/images/rocks-unsplash.jpg
  
 excerpt: >
-  "Conservation Science | Ecological Modelling<br>Impact Evaluation<br>Policy | Meditation | Music | (he/him)"
+  Conservation Science | Ecological Modelling <br> Impact Evaluation<br>Policy | Meditation | Music | (he/him)
 
 
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: ""
-    title: "My resaerch"
+    title: "Resaerch"
     excerpt: "This is all about the research I do ! Yes I do lots"
     url: "/research/"
     btn_class: "btn--primary"
