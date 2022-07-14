@@ -7,7 +7,8 @@ header:
   overlay_image: /assets/images/rocks-unsplash.jpg
  
 excerpt: >
-  "Conservation Science | Ecological Modelling | Impact Evaluation | Policy | Meditation | World Music | (he/him)"
+  "I acknowledge the people of the Kulin Nations as the Traditional Owners of the land
+  on which I live and work, and pay my respects to their Elders past, present and future."
 
 
 feature_row:
