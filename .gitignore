@@ -1,5 +1,4 @@
-# Ignore Mac system files
-.DS_store
-R/.RDataTmp
-R/.Rhistory
-
+_site
+.sass-cache
+.jekyll-metadata
+Gemfile.lock

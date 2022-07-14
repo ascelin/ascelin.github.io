@@ -7,27 +7,26 @@ header:
   overlay_image: /assets/images/rocks-unsplash.jpg
  
 excerpt: >
-  I acknowledge the people of the Kulin Nations as the Traditional Owners of the land
-  on which I live and work, and pay my respects to their Elders past, present and future.
+  "Conservation Science | Ecological Modelling | Impact Evaluation<br>Policy | Meditation | World Music | (he/him)"
 
 
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: ""
-    title: "Resaerch"
-    excerpt: "This is all about the research I do"
+    title: "My resaerch"
+    excerpt: "This is all about the research I do ! Yes I do lots"
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Research"
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Teaching"
-    excerpt: "Read about my teaching here."
+    title: "Responsive layouts"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
-    btn_label: "Teaching"
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: ""
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "100% free"
     title: "100% free"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
     url: "/docs/license/"
