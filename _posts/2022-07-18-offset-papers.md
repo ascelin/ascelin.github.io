@@ -1,8 +1,8 @@
 ---
 title: "Latest offset papers"
-date: 2022-07-18T15:34:30-04:00
+date: 2022-07-14
 categories:
-  - blog
+  - Blog
 tags:
   - Jekyll
   - update
