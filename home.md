@@ -14,8 +14,8 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: ""
-    title: "My resaerch"
-    excerpt: "This is all about the research I do"
+    title: "My resaerch areas"
+    excerpt: "Conservation Science, Ecological Modelling, Impact Evaluation, Conservation Policy"
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Research"
@@ -28,9 +28,9 @@ feature_row:
     btn_label: "Learn more"
   - image_path: #/assets/images/mm-free-feature.png
     alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    title: "Latest blog post"
+    excerpt: "Some recent papers on interesting dimensions of biodiversity offsetting"
+    url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Latest offset papers"
+title: "Some recent papers on interesting dimensions of biodiversity offsetting"
 date: 2022-07-14
 categories:
   - Blog
