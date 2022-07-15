@@ -12,7 +12,7 @@ excerpt: >
 
 
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: #/assets/images/mm-customizable-feature.png
     alt: ""
     title: "My resaerch areas"
     excerpt: "Conservation Science, Ecological Modelling, Impact Evaluation, Conservation Policy"
@@ -32,7 +32,7 @@ feature_row:
     excerpt: "Some recent papers on interesting dimensions of biodiversity offsetting"
     url: "/posts/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Read about it here"      
 ---
 
 {% include feature_row %}
