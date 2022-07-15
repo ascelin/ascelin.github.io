@@ -3,14 +3,14 @@ main:
     url: /posts/
   - title: "Research"
     url: /research/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Publications"
     url: /publications/
   - title: "Meditation"
     url: /meditation/
   - title: "Music"
     url: /music/
-  - title: "Opportunities"
-    url: /opportunities/
   - title: "About"
     url: /about/
   # - title: "Categories"

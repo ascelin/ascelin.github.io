@@ -1,5 +1,0 @@
----
-permalink: /oppotunities/
-title: "Oppotunities"
----
-
