@@ -21,9 +21,9 @@ feature_row:
     btn_label: "Research"
   - image_path: #/assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: ""
-    excerpt: "Welcome to my new web site!"
-    url: "/blog/welcome-to-my-new-website/"
+    title: "Welcome to my new web site!"
+    excerpt: "Read about my intention for this site"
+    url: "/posts/welcome-to-my-new-website/"
     btn_class: "btn--primary"
     btn_label: "Blog post"
   - image_path: #/assets/images/mm-free-feature.png
