@@ -14,7 +14,7 @@ excerpt: >
 feature_row:
   - image_path: #/assets/images/mm-responsive-feature.png
     alt: ""
-    title: "Welcome to my new web site!"
+    title: "Welcome to my web site!"
     excerpt: "Read about my intention for this site"
     url: "/blog/welcome-to-my-new-website/"
     btn_class: "btn--primary"
