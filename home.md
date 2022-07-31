@@ -33,12 +33,6 @@ feature_row:
     url: "/blog/offset-papers"
     btn_class: "btn--primary"
     btn_label: "Read about it here"      
-
-
-Test text to see if I can put my contact info here 
-sdgsf sdkjhsdfh 
-
-
 ---
 
 {% include feature_row %}
