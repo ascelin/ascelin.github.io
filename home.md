@@ -14,25 +14,25 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: ""
+    title: "Welcome to my web site"
+    excerpt: "Read about my intention for this site"
+    url: "/blog/welcome-to-my-new-website/"
+    btn_class: "btn--primary"
+    btn_label: "Blog post"
+  - image_path: #/assets/images/mm-responsive-feature.png
+    alt: ""
     title: "My resaerch areas"
-    excerpt: "Conservation Science, Ecological Modelling, Impact Evaluation, Conservation Policy"
+    excerpt: "Conservation Science, Ecological Modelling, Impact Evaluation, Conservation Policy."
     url: "/research/"
     btn_class: "btn--primary"
-    btn_label: "Research"
-  - image_path: #/assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Read more about my research"
   - image_path: #/assets/images/mm-free-feature.png
-    alt: "100% free"
+    alt: ""
     title: "Latest blog post"
     excerpt: "Some recent papers on interesting dimensions of biodiversity offsetting"
     url: "/posts/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "See here"      
 ---
 
 {% include feature_row %}

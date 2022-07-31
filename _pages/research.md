@@ -5,7 +5,7 @@ title: "Research"
 
 Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Current Reserach Projects](#current-reserach-projects)&nbsp;&nbsp;&nbsp;&nbsp;[Previous Reserach Pojects](#previous-research-projects)&nbsp;&nbsp;&nbsp;&nbsp;[Supervision](#supervision)
 
-My key research interests are around interdisciplinary problems in conservation science. Most of my previous research has foucessed on developing quantitative and qualitative approaches for understanding the impacts of environmental policies and programs on biodiversity values in the landscape. I have undertaken extensive research on biodiversity offsetting, impact evaluation for conservation, conservation planning, spatial prioritization and private land conservation.
+My research interests are around interdisciplinary problems in conservation science. Most of my previous research has foucessed on developing quantitative and qualitative approaches for understanding the impacts of environmental policies and programs on biodiversity values in the landscape. I have undertaken extensive research on biodiversity offsetting, impact evaluation for conservation, conservation planning, spatial prioritization and private land conservation.
 
 
 # Current Reserach Projects
