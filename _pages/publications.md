@@ -6,7 +6,10 @@ title: "Publications"
 ## Peer-reviewed journal articles
 
 
-**Book chapters**
+[Book chapters](#chapters)  [Refereed Journal articles](#articles)
+
+
+**<a name="chapters">Book chapters</a> **
 
 1.  Ives C.D., Beilin R., **Gordon A.**, Kendal D., Hahs A.,
     McDonnell M. (2013) Local Assessment of Melbourne: The Biodiversity
@@ -25,7 +28,7 @@ title: "Publications"
     *Steering Sustainability* (ed. A. Nelson), pp 227-238. Ashgate,
     Hampshire.
 
-**Refereed Journal articles**
+**<a name="articles">Refereed Journal articles</a>**
 
 4.  Kalliolevo H., Gordon A., Sharma R, Bull J., Bekessy SA. (2021)
     Biodiversity offsetting can relocate nature away from people: an
