@@ -21,10 +21,11 @@ This project is working with the New South Wales [Department of Planning Industr
 The aim of the project is to provide an improved understanding of whether calculation of current and future Vegetation Integrity is operating as intended, that is it meets policy objectives (No Net Loss of biodiversity, robust and transparent), provides consistent and robust estimates, and reflects current ecological predictions. Part of the project will involve undertaking detailed sensitivity analysis of all inputs to and structure of the calculations that go into determining current and guture Vegetation Integrity.
 
 
-##Previous Reserach Projects
+## Previous Reserach Projects
 To come...
 
-##Supervision
+
+## Supervision
 
 ### Current PhD studetns 
 To come...
