@@ -15,7 +15,7 @@ feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: ""
     title: "Welcome to my web site"
-    excerpt: "Read about my intention for this site"
+    excerpt: "Read about my intention for this site."
     url: "/blog/welcome-to-my-new-website/"
     btn_class: "btn--primary"
     btn_label: "Blog post"
@@ -29,7 +29,7 @@ feature_row:
   - image_path: #/assets/images/mm-free-feature.png
     alt: ""
     title: "Latest blog post"
-    excerpt: "Some recent papers on interesting dimensions of biodiversity offsetting"
+    excerpt: "Some recent papers on interesting dimensions of biodiversity offsetting."
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "See here"      
