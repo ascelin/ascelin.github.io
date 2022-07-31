@@ -35,9 +35,8 @@ feature_row:
     btn_label: "Read about it here"      
 
 
-excerpt: >
-  Test text to see if I can put my contact info here 
-  sdgsf sdkjhsdfh 
+Test text to see if I can put my contact info here 
+sdgsf sdkjhsdfh 
 
 
 ---
