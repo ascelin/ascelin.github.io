@@ -18,7 +18,7 @@ feature_row:
     excerpt: "Conservation Science, Ecological Modelling, Impact Evaluation, Conservation Policy"
     url: "/research/"
     btn_class: "btn--primary"
-    btn_label: "Read about my research"
+    btn_label: "Researcht"
   - image_path: #/assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Welcome to my new web site!"
