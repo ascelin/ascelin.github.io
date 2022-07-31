@@ -23,14 +23,14 @@ feature_row:
     alt: "fully responsive"
     title: "Welcome to my new web site!"
     excerpt: "Read about my intention for this site"
-    url: "/posts/welcome-to-my-new-website/"
+    url: "/blog/welcome-to-my-new-website/"
     btn_class: "btn--primary"
     btn_label: "Blog post"
   - image_path: #/assets/images/mm-free-feature.png
     alt: "100% free"
     title: "Latest blog post"
     excerpt: "Some recent papers on interesting dimensions of biodiversity offsetting"
-    url: "/posts/"
+    url: "/blog/offset-papers"
     btn_class: "btn--primary"
     btn_label: "Read about it here"      
 ---
