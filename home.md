@@ -23,7 +23,7 @@ feature_row:
     alt: "fully responsive"
     title: ""
     excerpt: "Welcome to my new web site!"
-    url: "/posts/welcome-to-my-new-website/"
+    url: "/blog/welcome-to-my-new-website/"
     btn_class: "btn--primary"
     btn_label: "Blog post"
   - image_path: #/assets/images/mm-free-feature.png
