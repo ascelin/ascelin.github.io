@@ -3,10 +3,10 @@ permalink: /publications/
 title: "Publications"
 ---
 
-Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Book chapters](#book-chapters)&nbsp;&nbsp;&nbsp;&nbsp;[refereed-journal-articles](#articles)
+Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Book chapters](#book-chapters)&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-articles)
 
 
-## Book chapters
+## Book Chapters
 
 1.  Ives C.D., Beilin R., **Gordon A.**, Kendal D., Hahs A.,
     McDonnell M. (2013) Local Assessment of Melbourne: The Biodiversity
