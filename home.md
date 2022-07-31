@@ -21,11 +21,11 @@ feature_row:
     btn_label: "Research"
   - image_path: #/assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    title: ""
+    excerpt: "Welcome to my new web site!"
+    url: "/posts/welcome-to-my-new-website/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Blog post"
   - image_path: #/assets/images/mm-free-feature.png
     alt: "100% free"
     title: "Latest blog post"
