@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-Jump to: [Book chapters](#chapters)&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal articles](#articles)
+Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Book chapters](#chapters)&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal articles](#articles)
 
 
 <a name="chapters">**Book chapters**</a>

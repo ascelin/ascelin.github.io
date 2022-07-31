@@ -3,11 +3,12 @@ permalink: /research/
 title: "Research"
 ---
 
+Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Current Reserach Projects](#current-research)&nbsp;&nbsp;&nbsp;&nbsp;[Previous Reserach Projects](#previous-research)&nbsp;&nbsp;&nbsp;&nbsp;[Supervision](#supervision)
 
 My key research interests are around interdisciplinary problems in conservation science. Most of my previous research has foucessed on developing quantitative and qualitative approaches for understanding the impacts of environmental policies and programs on biodiversity values in the landscape. I have undertaken extensive research on biodiversity offsetting, impact evaluation for conservation, conservation planning, spatial prioritization and private land conservation.
 
 
-## Current Reserach Projects 
+<a name="current-research">##Current Reserach Projects</a>
 
 ### Identifying counterfactuals for quantifying the value of avoided loss 
 
@@ -20,10 +21,10 @@ This project is working with the New South Wales [Department of Planning Industr
 The aim of the project is to provide an improved understanding of whether calculation of current and future Vegetation Integrity is operating as intended, that is it meets policy objectives (No Net Loss of biodiversity, robust and transparent), provides consistent and robust estimates, and reflects current ecological predictions. Part of the project will involve undertaking detailed sensitivity analysis of all inputs to and structure of the calculations that go into determining current and guture Vegetation Integrity.
 
 
-# Previous Reserach Projects
-
+<a name="previous-research">##Previous Reserach Projects</a>
 To come...
 
+<a name="supervision">##Supervision</a>
 
 ## Current PhD studetns 
 To come...
