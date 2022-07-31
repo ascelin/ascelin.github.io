@@ -12,13 +12,6 @@ excerpt: >
 
 
 feature_row:
-  - image_path: #/assets/images/mm-responsive-feature.png
-    alt: ""
-    title: "Welcome to my web site!"
-    excerpt: "Read about my intention for this site"
-    url: "/blog/welcome-to-my-new-website/"
-    btn_class: "btn--primary"
-    btn_label: "Blog post"
   - image_path: #/assets/images/mm-customizable-feature.png
     alt: ""
     title: "My resaerch areas"
@@ -26,8 +19,15 @@ feature_row:
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Read about my research"
+  - image_path: #/assets/images/mm-responsive-feature.png
+    alt: "fully responsive"
+    title: "Welcome to my new web site!"
+    excerpt: "Read about my intention for this site"
+    url: "/blog/welcome-to-my-new-website/"
+    btn_class: "btn--primary"
+    btn_label: "Blog post"
   - image_path: #/assets/images/mm-free-feature.png
-    alt: ""
+    alt: "100% free"
     title: "Latest blog post"
     excerpt: "Some recent papers on interesting dimensions of biodiversity offsetting"
     url: "/blog/offset-papers"
