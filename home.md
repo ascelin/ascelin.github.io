@@ -7,8 +7,7 @@ header:
   overlay_image: /assets/images/rocks-unsplash.jpg
  
 excerpt: >
-  I acknowledge the people of the Kulin Nations as the Traditional Owners of the land
-  on which I live and work, and pay my respects to their Elders past, present and future.
+  I acknowledge the Boon wurrung and Woi wurrung peoples of the Kulin Nations as the Traditional Owners of the land on which I live and work, and pay my respects to their Elders past, present and future.
 
 
 feature_row:
@@ -30,7 +29,7 @@ feature_row:
     alt: ""
     title: "Latest blog post"
     excerpt: "Some recent papers on interesting dimensions of biodiversity offsetting."
-    url: "/posts/"
+    url: "/blog/offset-papers/"
     btn_class: "btn--primary"
     btn_label: "See here"      
 ---

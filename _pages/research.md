@@ -5,7 +5,7 @@ title: "Research"
 
 Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Current Reserach Projects](#current-reserach-projects)&nbsp;&nbsp;&nbsp;&nbsp;[Previous Reserach Pojects](#previous-research-projects)&nbsp;&nbsp;&nbsp;&nbsp;[Supervision](#supervision)
 
-My research interests are around interdisciplinary problems in conservation science. Most of my previous research has foucessed on developing quantitative and qualitative approaches for understanding the impacts of environmental policies and programs on biodiversity values in the landscape. I have undertaken extensive research on biodiversity offsetting, impact evaluation for conservation, conservation planning, spatial prioritization and private land conservation.
+My research interests are around interdisciplinary problems in conservation science. Most of my previous research has foucessed on developing quantitative and qualitative approaches for understanding the impacts of environmental policies and programs on biodiversity values in the landscape. As part of this I have undertaken extensive research on biodiversity offsetting, impact evaluation for conservation, conservation planning, spatial prioritization and private land conservation.
 
 
 # Current Reserach Projects
@@ -28,16 +28,27 @@ To come...
 # Supervision
 
 ## Current PhD studetns 
-Roshan Sharma
+Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions"
 
-Marco Gutierrez
+Marco Gutierrez, thesis topic: "Biodiversity and ecosystem services in strategic environmental assessment: evaluating outcomes, challenges, and opportunities"
 
-Dale Wright 
+Florence Damiens, thesis topic: "Transnational discourses, policy practices and the production of natures: the case of biodiversity offset policies in France and Australia" 
+
+Dale Wright, 
 
 More to come...
 
-## Past PhD studetns 
-To come...
+## Completed PhD studetns 
+Vira Koshkina, thesis topic: “Stochastic ecological models for predicting species distribution and extinction” (completed 2019)
+
+Matthew Selinske, “Advancing the integration of human behaviours for better biodiversity decision-making” (completed 2020)
+
+Mat Hardy, thesis topic “A revolution in conservation funding: exploring the use of revolving funds to protect nature on private land” (completed 2017). Thesis available at https://researchbank.rmit.edu.au/view/rmit:162106 
+
+Alex Kusmanoff, “Framing the conservation conversation: an investigation into framing techniques for communicating biodiversity conservation” (completed in 2017). Thesis available at https://researchbank.rmit.edu.au/view/rmit:162021 
+
+Fatemeh Poodat, thesis topic: “Assessment of ecological connectivity for urban environments: A multispecies approach” (completed 2013). Thesis available at https://researchbank.rmit.edu.au/view/rmit:160491 
+
 
 ## Past Masters and Honours studetns 
 To come...
