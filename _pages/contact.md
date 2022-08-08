@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "About"
+title: "Contact"
 ---
 
 You can contact me via email [here](mailto:ascelin.gordon@rmit.edu.au).
