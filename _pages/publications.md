@@ -32,8 +32,8 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 
 5.  Gutierrez M., Bekessy S.A., Gordon A. (2021) Biodiversity and
     ecosystem services in strategic environmental assessment: an
-    evaluation of six Australian cases. <u>Environmental Impact
-    Assessment Review</u>. 87: 106552
+    evaluation of six Australian cases. *<u>Environmental Impact
+    Assessment Review</u>*. 87: 106552
     <https://dx.doi.org/10.1016/j.eiar.2021.106552>
 
 6.  Damiens F., Backstrom A., Gordon A. (2021) Governing for ‘no net
