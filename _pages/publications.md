@@ -230,7 +230,7 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 
 40. Laze K., **Gordon A**. (2016) Incorporating natural and human
     factors in habitat modelling and spatial prioritisation for the Lynx
-    lynx martinoi. *<u>Web ecology</u>. <https://dx.doi.org/*10.5194/we-16-1-2016>
+    lynx martinoi. *<u>Web ecology</u>*. <https://dx.doi.org/*10.5194/we-16-1-2016>
     
 41. Martine M. **Gordon A.**, Mackey B.G., Possingham H.P., Watson
     J.E.M. (2016) Interactions between biodiversity offsets and
