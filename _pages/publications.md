@@ -8,10 +8,10 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 
 ## Refereed Journal Articles 
 
-Kujala H., Maron M., Kennedy C.M., Bull J.W., Evans M.C., Wintle
+1.  Kujala H., Maron M., Kennedy C.M., Bull J.W., Evans M.C., Wintle
     B.A., Iftekhar M.S., Selwood K.E., Beissner K., Osborn D., **Gordon
     A.** (2022) Credible biodiversity offsetting needs public national
-    registers to confirm No Net Loss. <u>*One Earth*.</u> 5: 650-662.
+    registers to confirm No Net Loss. *<u>One Earth</u>*. 5: 650-662.
     <https://dx.doi.org/10.1016/j.oneear.2022.05.011>
 
 2.  Rhodes J.R., Armsworth P.R., Iacona G., Shah P., **Gordon A.**,
@@ -230,9 +230,8 @@ Kujala H., Maron M., Kennedy C.M., Bull J.W., Evans M.C., Wintle
 
 40. Laze K., **Gordon A**. (2016) Incorporating natural and human
     factors in habitat modelling and spatial prioritisation for the Lynx
-    lynx martinoi. *<u>Web ecology</u>.*
-    [*https://dx.doi.org/*10.5194/we-16-1-2016](https://dx.doi.org/10.5194/we-16-1-2016)
-
+    lynx martinoi. *<u>Web ecology</u>. <https://dx.doi.org/*10.5194/we-16-1-2016>
+    
 41. Martine M. **Gordon A.**, Mackey B.G., Possingham H.P., Watson
     J.E.M. (2016) Interactions between biodiversity offsets and
     protected area commitments: avoiding perverse outcomes.
@@ -484,6 +483,7 @@ Kujala H., Maron M., Kennedy C.M., Bull J.W., Evans M.C., Wintle
 
 80. **Gordon, A.**, et al. (208 additional co-authors) (2002) Study of B
     ->rho pi decays at Belle. *<u>Physics Letters B</u>*, 542, 183-192.
+
 
 ## Book Chapters
 
