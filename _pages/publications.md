@@ -8,6 +8,7 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 
 ## Refereed Journal Articles 
 
+
 1.  Kujala H., Maron M., Kennedy C.M., Bull J.W., Evans M.C., Wintle
     B.A., Iftekhar M.S., Selwood K.E., Beissner K., Osborn D., **Gordon
     A.** (2022) Credible biodiversity offsetting needs public national
@@ -24,7 +25,7 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
     empirical case study in Western Australia. *<u>Conservation Science
     and Practice</u>*. <https://dx.doi.org/10.1111/csp2.512>
 
-4.  Bull J., Sonter L., Gordon A., Maron M., Narain D., Reside A.,
+4.  Bull J.W., Sonter L., Gordon A., Maron M., Narain D., Reside A.,
     Sanchez L., Shumway N., von Hase A., Quétier F. (2022) Quantifying
     the ‘avoided’ biodiversity impacts associated with economic
     development. *<u>Frontiers in Ecology and the Environment</u>*.
@@ -51,21 +52,21 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
     from offset exchanges. *<u>Oryx</u>*. 55: 393 – 403.
     <https://dx.doi.org/10.1017/S0030605319000528>
 
-9.  Bull JW, Strange N, Smith RJ, **Gordon A.** (2021) Reconciling
+9.  Bull J.W., Strange N., Smith R.J., **Gordon A.** (2021) Reconciling
     multiple counterfactuals when evaluating biodiversity conservation
     impact in social‐ecological systems. *<u>Conservation Biology</u>*.
     35: 510-521. <https://dx.doi.org/10.1111/cobi.13570>
 
-10. zu Ermgassen SOSE, Maron M, Walker CMC, **Gordon A**, Simmonds JS,
-    Strange N, Robertson M, Bull JW (2020) The hidden biodiversity risks
-    of increasing flexibility in biodiversity offset trades.
-    *<u>Biological Conservation</u>*. 252: 108861.
+10. zu Ermgassen S.O.S.E., Maron M., Walker C.M.C., **Gordon A.**,
+    Simmonds J.S., Strange N., Robertson M., Bull J.W. (2020) The hidden
+    biodiversity risks of increasing flexibility in biodiversity offset
+    trades. *<u>Biological Conservation</u>*. 252: 108861.
     <https://dx.doi.org/10.1016/j.biocon.2020.108861>
 
-11. Garrard GE, Kusmanoff AM, Faulkner R, Samarasekara C, **Gordon A**,
-    Johnstone A, Peterson IR, Torabi N,Wang Y, Bekessy SA (2020)
-    Understanding Australia’s national feral cat control effort.
-    *<u>Wildlife Research</u>*. 47: 698-708.
+11. Garrard G.E., Kusmanoff A.M., Faulkner R., Samarasekara C., **Gordon
+    A.**, Johnstone A., Peterson I.R., Torabi N.,Wang Y., Bekessy
+    S.A. (2020) Understanding Australia’s national feral cat control
+    effort. *<u>Wildlife Research</u>*. 47: 698-708.
     <https://dx.doi.org/10.1071/WR19216>
 
 12. Sharma R., Eklund J., Barnes M., Geldman J., Schleicher J., Pressey
@@ -230,8 +231,9 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 
 40. Laze K., **Gordon A**. (2016) Incorporating natural and human
     factors in habitat modelling and spatial prioritisation for the Lynx
-    lynx martinoi. *<u>Web ecology</u>*. <https://dx.doi.org/*10.5194/we-16-1-2016>
-    
+    lynx martinoi. *<u>Web ecology</u>.*
+    <https://dx.doi.org/10.5194/we-16-1-2016>
+
 41. Martine M. **Gordon A.**, Mackey B.G., Possingham H.P., Watson
     J.E.M. (2016) Interactions between biodiversity offsets and
     protected area commitments: avoiding perverse outcomes.
@@ -252,128 +254,131 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 44. Bull J.W., **Gordon A.** (2015) Schrödinger's microbe: implications
     of coercing a living organism into a coherent quantum mechanical
     state. *<u>Biology & Philosophy</u>*. 30: 845-856.
-    https://dx.doi.org/10.1007/s10539-015-9500-4.
+    <https://dx.doi.org/10.1007/s10539-015-9500-4>
 
 45. Maron M., Bull J.W., Evans M.C., **Gordon A.** (2015) Locking in
     loss: baselines of decline in Australian biodiversity offset
     policies. *<u>Biological Conservation</u>*. 192: 504–512.
-    https://dx.doi.org/10.1016/j.biocon.2015.05.017.
+    <https://dx.doi.org/10.1016/j.biocon.2015.05.017>
 
 46. Poodat F., Arrowsmith C., Fraser D., **Gordon A.** (2015)
     Prioritising urban habitats for connectivity conservation:
     integrating centrality and metapopulation metrics. *<u>Environmental
     Management.</u>* 56: 664-674.
-    https://dx.doi.org/10.1007/s00267-015-0520-2.
+    <https://dx.doi.org/10.1007/s00267-015-0520-2>
 
 47. **Gordon A.**, Bull J.W., Wilcox C., Maron M. (2015) Perverse
     incentives risk undermining biodiversity offset policies.
     *<u>Journal of Applied Ecology.</u>* 52: 532–537
-    https://dx.doi.org/10.1111/1365-2664.12398.
+    <https://dx.doi.org/10.1111/1365-2664.12398>
 
 48. **Gordon A.** (2015) Implementing backcasting for conservation:
     determining multiple policy pathways for retaining future targets of
     endangered woodlands in Sydney, Australia. *<u>Biological
     Conservation</u>*. 181: 182–189.
-    https://dx.doi.org/10.1016/j.biocon.2014.10.025.
+    <https://dx.doi.org/10.1016/j.biocon.2014.10.025>
 
 49. Kark S., Tulloch A., **Gordon A.**, Mazor T., Bunnefeld N.,
     Levin N. (2015) Cross-boundary collaboration: key to the
     conservation puzzle. *<u>Current Opinion in Environmental
-    Sustainability.</u>* 12: 12–24. doi:10.1016/j.cosust.2014.08.005.
+    Sustainability.</u>* 12: 12–24.
+    <https://dx.doi.org/10.1016/j.cosust.2014.08.005>
 
 50. Guillera-Arroita G., Lahoz-Monfort J.J., Elith J., **Gordon A.**,
     Kujala H., Lentini P.E., McCarthy M.A., Tingley R., Wintle
     B.A. (2015) Is my species distribution model fit for purpose?
     Matching data and models to applications. *<u>Global Ecology and
     Biogeography.</u>* 24: 276-292.
-    https://dx.doi.org/10.1111/geb.12268.
+    <https://dx.doi.org/10.1111/geb.12268>
 
 51. Lechner A.M., Raymond C., Adams V.M., Polyakov,M., **Gordon A.**,
     Rhodes J.<sub>,</sub> Mills M., Stein A., Ives C., Lefroy T. (2014)
     Characterizing spatial uncertainty when integrating social data in
     conservation planning. *<u>Conservation Biology</u>.* 28: 1497–1511.
-    https://dx.doi.org/10.1111/cobi.12409.
+    <https://dx.doi.org/10.1111/cobi.12409>
 
 52. Whitehead A., Kujala H., Ives C., **Gordon A.**, Lentini P., Wintle
     B., Nicholson E., Raymond C. (2014) Integrating biological and
     social values when prioritising places for biodiversity
     conservation. *<u>Conservation Biology</u>*. 28: 992–1003.
-    https://dx.doi.org/10.1111/cobi.12257.
+    <https://dx.doi.org/10.1111/cobi.12257>
 
 53. Bull J.W., **Gordon** **A.**, Law E., Suttle K.B., Milner-Gulland
     E.J. (2014) The importance of baseline specification in evaluating
     conservation interventions and achieving ‘no net loss’ of
     biodiversity. *<u>Conservation Biology</u>*. 28: 799–809.
-    doi:10.1111/cobi.12243.
+    <https://dx.doi.org/10.1111/cobi.12243>
 
 54. Levin N., Tulloch A., **Gordon A.,** Mazor T., Bunnefeld N.,
     Kark S. (2013) Incorporating socio-economic and political factors
     into cross-boundary conservation planning in the Mediterranean Sea:
     Mare Nostrum. *<u>Bioscience</u>*. 63: 547-563.
-    doi:10.1525/bio.2013.63.7.8.
+    <https://dx.doi.org/10.1525/bio.2013.63.7.8>
 
 55. Bull J.W., Suttle K.B., **Gordon** **A.**, Singh N.J.,
     Milner-Gulland E.J. (2013) Biodiversity offsets in theory and
-    practice. *<u>Oryx</u>*. 47: 369-380. doi:10.1017/s003060531200172x.
+    practice. *<u>Oryx</u>*. 47: 369-380.
+    <https://dx.doi.org/10.1017/s003060531200172x>
 
 56. **Gordon A.,** Bastin, L., Langford W.T., Lechner, A.M., Bekessy,
     S.A. (2013) Simulating the value of collaboration in multi-actor
     conservation planning. *<u>Ecological Modelling.</u>* 249: 19–25.
-    doi:10.1016/j.ecolmodel.2012.07.009.
+    <https://dx.doi.org/10.1016/j.ecolmodel.2012.07.009>
 
 57. Wilson J.N., Bekessy S.A., Parris K.M., **Gordon A.**, Heard G.W.,
     Wintle B.A. (2013) Impacts of climate change and urban development
     on the spotted marsh frog (Limnodynastes tasmaniensis). *<u>Austral
-    Ecology</u>.* 38: 11-22. doi:10.1111/j.1442-9993.2012.02365.x.
+    Ecology</u>.* 38: 11-22.
+    <https://dx.doi.org/10.1111/j.1442-9993.2012.02365.x>
 
 58. Bekessy S.A., White M.D., **Gordon A.**, Moilanen A., McCarthy M.A.,
     Wintle B.A. (2012) Transparent conservation planning in the urban
     fringe. *<u>Landscape and Urban Planning</u>*, 108: 140-149.
-    https://dx.doi.org/10.1016/j.landurbplan.2012.09.001.
+    <https://dx.doi.org/10.1016/j.landurbplan.2012.09.001>
 
 59. **Gordon A.**, Wintle B.A., Bekessy S.A., Pearce J., Venier L.,
     Wilson J.N. (2012) The use of dynamic landscape metapopulation
     models for forest management: a case study of the red-backed
     salamander. *<u>Canadian Journal of Forest Research</u>*, 42:
-    1091-1106. https://dx.doi.org/10.1139/x2012-068.
+    1091-1106. <https://dx.doi.org/10.1139/x2012-068>
 
 60. Lechner A.M., Langford W.T., Jones S.D., Bekessy S.A., **Gordon
     A.** (2012) Investigating species-environment relationships at
     multiple scales: differentiating between intrinsic scale and the
     modifiable areal unit problem. *<u>Ecological Complexity</u>*, 11:
-    91–102. https://dx.doi.org/10.1016/j.ecocom.2012.04.002.
+    91–102. <https://dx.doi.org/10.1016/j.ecocom.2012.04.002>
 
 61. Cooke B., Langford W.T., **Gordon A.**, Bekessy S. (2012) Social
     context and the role of collaborative policy-making for private land
     conservation. *<u>Journal of Environmental Planning and
     Management</u>*, 55: 469–485.
-    https://dx.doi.org/10.1080/09640568.2011.608549.
+    <https://dx.doi.org/10.1080/09640568.2011.608549>
 
 62. **Gordon A.**, Langford W.T., Todd J.A., White M.D., Mullerworth
     D.W, Bekessy S.A. (2011) Assessing the impacts of biodiversity
     offset policies*. <u>Environmental Modelling and Software</u>*, 26:
-    1481–1488. doi 10.1016/j.envsoft.2011.07.021.
+    1481–1488. <https://dx.doi.org/10.1016/j.envsoft.2011.07.021>
 
 63. Langford W.T., **Gordon A.**, Bastin L., Bekessy S.A., White M.,
     Newell G. (2011) Raising the bar for systematic conservation
     planning. *<u>Trends in Ecology and Evolution</u>*, 26: 634–640.
-    https://dx.doi.org/10.1016/j.tree.2011.08.001.
+    <https://dx.doi.org/10.1016/j.tree.2011.08.001>
 
 64. **Gordon A.**, Langford W.T., White M.D., Todd J.A.,
     Bastin L. (2011) Modelling trade offs between public and private
     conservation policies. *<u>Biological Conservation</u>*, 144:
-    558-556. https://dx.doi.org/10.1016/j.biocon.2010.10.011.
+    558-556. <https://dx.doi.org/10.1016/j.biocon.2010.10.011>
 
 65. **Gordon A.**, Simondson D., White M., Moilanen A., Bekessy
     S.A. (2009) Integrating conservation planning and landuse planning
     in urban landscapes. *<u>Landscape and Urban Planning</u>*, 91:
-    183–194. https://dx.doi.org/10.1016/j.landurbplan.2008.12.011.
+    183–194. <https://dx.doi.org/10.1016/j.landurbplan.2008.12.011>
 
 66. McDonald-Madden E., **Gordon A.**, Wintle B.A., Walker S., Grantham
     H., Carvalho S., Bottrill M., Joseph L., Ponce R., Stewart R.,
     Possingham H.P. (2009) “True” conservation progress.
     *<u>Science</u>*, 323: 43-44.
-    https://dx.doi.org/10.1126/science.1164342.
+    <https://dx.doi.org/10.1126/science.1164342>
 
 67. Langford W.T., **Gordon A.**, Bastin L. (2009) When do conservation
     planning methods deliver? Quantifying the consequences of
@@ -483,7 +488,6 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 
 80. **Gordon, A.**, et al. (208 additional co-authors) (2002) Study of B
     ->rho pi decays at Belle. *<u>Physics Letters B</u>*, 542, 183-192.
-
 
 ## Book Chapters
 
