@@ -20,7 +20,7 @@ feature_row:
     btn_label: "Blog post"
   - image_path: #/assets/images/mm-responsive-feature.png
     alt: ""
-    title: "My resaerch areas"
+    title: "My research areas"
     excerpt: "Conservation Science, Ecological Modelling, Impact Evaluation, Conservation Policy."
     url: "/research/"
     btn_class: "btn--primary"
