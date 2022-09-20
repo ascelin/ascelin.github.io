@@ -229,12 +229,10 @@ by Blanche Verlie
 [<u>https://www.routledge.com/Learning-to-Live-with-Climate-Change-From-Anxiety-to-Transformation/Verlie/p/book/9780367441258</u>](https://www.routledge.com/Learning-to-Live-with-Climate-Change-From-Anxiety-to-Transformation/Verlie/p/book/9780367441258)
 
 8 Psychological strategies to tackle climate change
-
 <https://psychology.org.au/getmedia/b2304d9c-64d4-40a6-b063-3014128ec740/activate-climate-change.pdf>
 
 Resources for coping with climate change distress from Australian
 Psychological Society
-
 <https://psychology.org.au/for-the-public/psychology-topics/climate-change-psychology/coping-with-climate-change-distress>
 
 Resources to Cope With Climate Anxiety and Grief - from the The Commons
@@ -251,7 +249,6 @@ An Existential Toolkit for Climate Justice Educators
 Climate Anxiety Is an Overwhelmingly White Phenomenon - Is it really
 just code for white people wishing to hold onto their way of life or to
 get “back to normal?”
-
 <https://www.scientificamerican.com/article/the-unbearable-whiteness-of-climate-anxiety/>
 
 ***Student activities***
