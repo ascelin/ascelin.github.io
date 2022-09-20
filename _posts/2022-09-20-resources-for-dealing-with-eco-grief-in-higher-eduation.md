@@ -14,7 +14,7 @@ tags:
 Practice**
 
 In late 2021, I helped run four community of practice (CoP) sessions open to all staff at RMIT University to explore strategies for
-reducing eco-greif and eco-anxiety in our teaching for staff and students. We aimed to cover three aspects: the staff experience (week 1); the teaching
+reducing eco-grief and eco-anxiety in our teaching for staff and students. We aimed to cover three aspects: the staff experience (week 1); the teaching
 experience (week 2); and the student experience (week 3). Week 4 was a
 general discussion bringing everything together. Part of the aim of the
 CoP was also to start developing a library of activities for us to use
