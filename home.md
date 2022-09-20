@@ -28,8 +28,8 @@ feature_row:
   - image_path: #/assets/images/mm-free-feature.png
     alt: ""
     title: "Latest blog post"
-    excerpt: "Some recent papers on interesting dimensions of biodiversity offsetting."
-    url: "/blog/offset-papers/"
+    excerpt: "Resources for dealing with eco-grief in higher education"
+    url: "/blog/resources-for-dealing-with-eco-grief-in-higher-eduation/"
     btn_class: "btn--primary"
     btn_label: "See here"      
 ---
