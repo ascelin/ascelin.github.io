@@ -243,7 +243,6 @@ Social Change Library
 
 Trauma-Informed Tertiary Learning and Teaching Practice Framework -
 *Quick Reference Guide* from Griffith University
-
 <https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiFw67tnfL5AhUa0XMBHbfEDWkQFnoECA4QAQ&url=https%3A%2F%2Fwww.griffith.edu.au%2F__data%2Fassets%2Fpdf_file%2F0020%2F1052309%2FFRAMEWORK.pdf&usg=AOvVaw32tDTrM6JRC03cgOvmWnnM>
 
 An Existential Toolkit for Climate Justice Educators  
