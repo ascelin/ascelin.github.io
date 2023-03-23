@@ -55,6 +55,9 @@ Fatemeh Poodat, thesis topic: “Assessment of ecological connectivity for urban
 
 
 ## Past Masters, Honours and other students 
+
+Adam Dzunko, thesis topic "Assessing Eastern Ground Parrot (Pezoporus wallicus wallicus) populations in the Marlo and Cape Conran area following the 2019/20 bushfires" (completed 2021). Masters thesis. 
+
 Cameron Beetham, thesis topic “Citizen Science in Native Grasslands" (completed 2021). Undergraduate Thesis. 
  
 Anna O'Brien, thesis topic “Critical review of assumptions of gains in biodiversity under Victorian offsetting policy" (completed 2020). Masters thesis. Thesis available at [https://doi.org/10.31219/osf.io/nv4za](https://doi.org/10.31219/osf.io/nv4za){:target="_blank"}
