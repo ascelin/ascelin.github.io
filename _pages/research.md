@@ -36,7 +36,7 @@ Florence Damiens, thesis topic: "Transnational discourses, policy practices and 
 
 Stephanie Wong, thesis topic: "TBC".
 
-## Completed PhD studetns 
+## Completed PhD students 
 
 Marco Gutiérrez, thesis topic: "Biodiversity and ecosystem services in strategic environmental assessment: evaluating outcomes, challenges, and opportunities" (completed 2022). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9922177313301341](https://researchrepository.rmit.edu.au/esploro/outputs/9922177313301341){:target="_blank"}.
 
