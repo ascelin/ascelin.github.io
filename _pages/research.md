@@ -40,7 +40,7 @@ Stephanie Wong, thesis topic: "TBC"
 
 Marco Gutiérrez, thesis topic: "Biodiversity and ecosystem services in strategic environmental assessment: evaluating outcomes, challenges, and opportunities" (completed 2022). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9922177313301341](https://researchrepository.rmit.edu.au/esploro/outputs/9922177313301341){:target="_blank"}.
 
-Matthew Selinske, thesis topic: “Advancing the integration of human behaviours for better biodiversity decision-making” (completed 2020). Thesis available at
+Matthew Selinske, thesis topic: “Advancing the integration of human behaviour into biodiversity decision-making” (completed 2019). Thesis available at
 [https://researchrepository.rmit.edu.au/esploro/outputs/9921863851801341](https://researchrepository.rmit.edu.au/esploro/outputs/9921863851801341){:target="_blank"}.
 
 Vira Koshkina, thesis topic: “Stochastic ecological models for predicting species distribution and extinction” (completed 2019).  Thesis available at
@@ -61,7 +61,7 @@ Anna O'Brien, thesis topic “Critical review of assumptions of gains in biodive
 
 David Attard, thesis topic “Evaluating Melbourne’s newest conservation areas for a set of threatened species using the Zonation Conservation Planning Tool” (completed 2013). Masters thesis.
 
-Travis Ittensohn, thesis topic “Measuring Biodiversity Impacts and Priorities in Relation to Urban Expansion at the National Scale”, (completed 2017). Masters thesis.
+Travis Ittensohn, thesis topic “Measuring Biodiversity Impacts and Priorities in Relation to Urban Expansion at the National Scale” (completed 2017). Masters thesis.
 
 
 [BCT-link]:https://www.bct.nsw.gov.au/
