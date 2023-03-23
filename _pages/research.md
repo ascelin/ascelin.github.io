@@ -28,13 +28,13 @@ To come...
 # Supervision
 
 ## Current PhD studetns 
-Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions"
+Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions".
 
-Dale Wright, thesis topic "Investigating the social-ecological sustainability of coffee"
+Dale Wright, thesis topic "Investigating the social-ecological sustainability of coffee".
 
-Florence Damiens, thesis topic: "Transnational discourses, policy practices and the production of natures: the case of biodiversity offset policies in France and Australia" 
+Florence Damiens, thesis topic: "Transnational discourses, policy practices and the production of natures: the case of biodiversity offset policies in France and Australia".
 
-Stephanie Wong, thesis topic: "TBC"
+Stephanie Wong, thesis topic: "TBC".
 
 ## Completed PhD studetns 
 
