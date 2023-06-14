@@ -27,7 +27,7 @@ To come...
 
 # Supervision
 
-## Current PhD studetns 
+## Current PhD students 
 Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions".
 
 Dale Wright, thesis topic: "Investigating the social-ecological sustainability of coffee".
