@@ -528,7 +528,7 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
     Hampshire.
 
 
-## Other Research Ouptuts
+## Other Research Outputs
 
 ***Letters to the editor***
 
