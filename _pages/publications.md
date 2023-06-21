@@ -530,83 +530,80 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 
 ## Other Research Outputs
 
-**Additional research outputs**
-
 ***Letters to the editor***
 
 1.  Damiens F., Laura M., Backstrom A., Bekessy S., Coffey B., Faulkner
     R., Garrard G., Hardy M., Kusmanoff A., Mata L., Rickards L.,
     Selinski M., Torabi T., **Gordon A.** (2017) Why politics and
     context matter in conservation policy: A response to Kareiva and
-    Fuller. *<u>Global Policy</u>*. 8: 253-256. doi:
-    10.1111/1758-5899.12415.
+    Fuller. *<u>Global Policy</u>*. 8: 253-256.
+    <http://dx.doi.org/10.1111/1758-5899.12415>
 
 2.  Maron M., **Gordon A.**, Mackey B.G., Possingham H.P., Watson
     J.E.M. (2015) Conservation: Stop misuse of biodiversity offsets.
     *<u>Nature</u>*. 523: 401–403. doi:10.1038/523401a. 3 pages.
     Available at:
-    http://www.nature.com/news/conservation-stop-misuse-of-biodiversity-offsets-1.18010.
+    <http://www.nature.com/news/conservation-stop-misuse-of-biodiversity-offsets-1.18010>
 
 ***Public engagement***
 
-3.  Bekessy S.A., Kusmanoff A., **Gordon A**., Gregg E., Thomas F.,
+1.  Bekessy S.A., Kusmanoff A., **Gordon A**., Gregg E., Thomas F.,
     Garrard G., Kirk H., Ringma J., Berthon K., Kidd L., Gutiérrez M.,
     Hardy M., Selinske M., Sharma R. (2019) How should I vote if I care
     about preventing the extinction of nature? Published in The
     Conversation, 16 May 2019. Available at:
     <https://theconversation.com/how-should-i-vote-if-i-care-about-preventing-the-extinction-of-nature-117197>
 
-4.  Hardy M.J., Bekessy S.A., **Gordon A.** Fitzsimons J.A. (2019)
+2.  Hardy M.J., Bekessy S.A., **Gordon A.** Fitzsimons J.A. (2019)
     Saving Nature with Revolving Real Estate. Australasian Science,
     May 2019. Available at:
     <http://www.australasianscience.com.au/article/issue-mayjune-2019/saving-nature-revolving-real-estate.html>
 
-5.  Hardy M.J., Bekessy S.A., Fitzsimons J.A., **Gordon A.** (2018)
+3.  Hardy M.J., Bekessy S.A., Fitzsimons J.A., **Gordon A.** (2018)
     Revolving Private Land to Conserve Nature. Australasian Science,
     May 2018. Available at:
     <https://www.australasianscience.com.au/article/issue-mayjune-2018/revolving-private-land-conserve-nature.html>
 
-6.  Hardy M.J., Fitzsimons J.A., Bekessy S.A., **Gordon A.** (2016) An
+4.  Hardy M.J., Fitzsimons J.A., Bekessy S.A., **Gordon A.** (2016) An
     Agreement Forever? Australasian Science November 2016, page 48 (1
     page) Available at:
-    http://www.australasianscience.com.au/article/issue-november-2016/agreement-forever.html
+    <http://www.australasianscience.com.au/article/issue-november-2016/agreement-forever.html>
 
-7.  **Gordon A.** (2015) Step forward then look back: using
+5.  **Gordon A.** (2015) Step forward then look back: using
     ‘backcasting’ to improve conservation and offsets policy. Decision
-    Point. 2 pages. Available at
-    http://decision-point.com.au/?article=step-forward-then-look-back
+    Point. 2 pages.
 
-8.  Maron M., **Gordon A.** (2015) Could well-designed offset policies
+6.  Maron M., **Gordon A.** (2015) Could well-designed offset policies
     actually increase loss? Decision Point. 2 pages. Available at
     <http://decision-point.com.au/?article=could-well-designed-offset-policies-actually-increase-loss>
 
-9.  Fidler F., **Gordon A.** (2013) Science is in a reproducibility
+7.  Fidler F., **Gordon A.** (2013) Science is in a reproducibility
     crisis – how do we resolve it? Published in The Conversation
     20<sup>th</sup> September 2013. Available at
-    https://theconversation.com/science-is-in-a-reproducibility-crisis-how-do-we-resolve-it-16998
+    <https://theconversation.com/science-is-in-a-reproducibility-crisis-how-do-we-resolve-it-16998>
 
-10. **Gordon A.**, Bekessy S.A. (2013) Weighing up the costs of
+8.  **Gordon A.**, Bekessy S.A. (2013) Weighing up the costs of
     collaboration. Decision Point No. 73. September 2013. 1 page.
     Available at
-    http://decision-point.com.au/?article=weighing-up-the-costs-of-collaboration
+    <http://decision-point.com.au/?article=weighing-up-the-costs-of-collaboration>
 
-11. Maron M., **Gordon A.** (2013) Biodiversity offsets could be locking
+9.  Maron M., **Gordon A.** (2013) Biodiversity offsets could be locking
     in species decline. Published in The Conversation, 6th June 2013.
     Available at
-    https://theconversation.com/biodiversity-offsets-could-be-locking-in-species-decline-14177
+    <https://theconversation.com/biodiversity-offsets-could-be-locking-in-species-decline-14177>
 
-12. **Gordon A.** (2012) The origin of the universe: is there a role for
+10. **Gordon A.** (2012) The origin of the universe: is there a role for
     God? Published in The Conversation, 19th April 2012. Available at
-    http://theconversation.com/the-origin-of-the-universe-is-there-a-role-for-god-6418
+    <http://theconversation.com/the-origin-of-the-universe-is-there-a-role-for-god-6418>
 
-13. **Gordon A.** (2011) Biodiversity offsets: solving the
+11. **Gordon A.** (2011) Biodiversity offsets: solving the
     habitat-saving equation. Published in The Conversation, 24th
     November 2011. Available at
-    http://theconversation.com/biodiversity-offsets-solving-the-habitat-saving-equation-4035
+    <http://theconversation.com/biodiversity-offsets-solving-the-habitat-saving-equation-4035>
 
 ***Policy Advice***
 
-14. Kidd L., Backstrom A., Kusmanoff A., **Gordon A.**, Gregg E.,
+12. Kidd L., Backstrom A., Kusmanoff A., **Gordon A.**, Gregg E.,
     Damiens F., Thomas F., Garrard G., Kirk H., Ringma J.,Berthon K.,
     Gutiérrez M., Hardy M.,Selinske M., Croeser T., Bekessy S.A. (2018)
     Submission to the Australian Government for the Senate Inquiry on
@@ -614,26 +611,26 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
     <https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/Faunalextinction/Submissions>
     (submission no 128).
 
-15. Croeser T., Garrard G., Kusmanoff K., **Gordon A.**, Bekessy S.,
+13. Croeser T., Garrard G., Kusmanoff K., **Gordon A.**, Bekessy S.,
     Kidd L., Berthon K., Selinske M., Gregg E., Thomas F., Kirk H., Mata
     L., Damiens F., Hardy M., Peterson I., Mumaw L., Torabi N.,
     Backstrom A., Hurley S. (2018) Submission to the Australian
     Government’s Department of the Environment and Energy on the
     Australia’s strategy for nature 2018–2030. 4 pages.
 
-16. Selinske M., Hardy M., **Gordon A.**, Knight A. (2017) Policy brief
+14. Selinske M., Hardy M., **Gordon A.**, Knight A. (2017) Policy brief
     for Privately Protected Areas Futures 2017: Supporting the long-term
     stewardship of privately protected areas. doi:
     10.31219/osf.io/znsdq. Available at <https://osf.io/znsdq>. 3 pages.
 
-17. Faulkner R., Corney H., Damiens F., Kusmanoff A., **Gordon A.**,
+15. Faulkner R., Corney H., Damiens F., Kusmanoff A., **Gordon A.**,
     Hardy M., Backstrom A., Mata L., Mumaw L., Selinske M., Hartridge
     S., van Wijnen S., Smith T., Garrard G., Peterson I., Torabi N.,
     Bekessy S. (2016) Comments on the Draft National Recovery Plan for
     Leadbeater’s Possum. Submission to the Victorian Government
     Department of Environment, Land, Water and Planning. 5 pages.
 
-18. Kusmanoff A., **Gordon A.**, Backstrom A., Damiens F., Faulkner R.,
+16. Kusmanoff A., **Gordon A.**, Backstrom A., Damiens F., Faulkner R.,
     Garrard G.E., Hardy M., Hartridge S, Mata L., Mumaw L., Selinske M.,
     Torabi N, Bekessy S.A. (2016) Submission to the Department of
     Environment, Land, Water and Planning on the Review of the Native
@@ -642,80 +639,80 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
     pages. Available at
     <http://haveyoursay.delwp.vic.gov.au/native-vegetation-clearing-regulations>
 
-19. Maron M., **Gordon A.** (2014) Peer Review of the Draft Framework
+17. Maron M., **Gordon A.** (2014) Peer Review of the Draft Framework
     for Biodiversity Assessment for Assessing and Offsetting State
     Significant Development and State Significant Infrastructure in New
     South Wales. Report to the NSW Office of Environment and Heritage,
     Sydney. 36 pages.
 
-20. Hardy M., Kusmanoff A., **Gordon A.**, Mumaw L., Backstrom A., Cooke
+18. Hardy M., Kusmanoff A., **Gordon A.**, Mumaw L., Backstrom A., Cooke
     B., Garrard G., Ives C., Meiklejohn D., Oke C., Torabi N.,
     Bekessy S. (2014) Submission to the Australian Government’s House
     Standing Committee on the Environment Inquiry into streamlining
     environmental regulation, ‘green tape’ and one-stop shops. 9 pages.
     Available at
-    http://www.aph.gov.au/Parliamentary_Business/Committees/House/Environment/Green_Tape/Submissions
+    <http://www.aph.gov.au/Parliamentary_Business/Committees/House/Environment/Green_Tape/Submissions>
     (submission no. 62)
 
-21. **Gordon A.**, Hardy M., Mata L., Garrard G., Kusmanoff A.,
+19. **Gordon A.**, Hardy M., Mata L., Garrard G., Kusmanoff A.,
     Bekessy S. (2014) Submission to the Australian Government’s Senate
     Environment and Communications References Committee Inquiry into
     Environmental Offsets. 5 pages. Available at
-    http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/Environmental_Offsets/Submissions
-    (submission number 34).
+    <http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/Environmental_Offsets/Submissions>
+    (submission number 34)
 
-22. Ives C., Garrard G., **Gordon A.**, Kusmanoff A., Wilson J.N (2012)
+20. Ives C., Garrard G., **Gordon A.**, Kusmanoff A., Wilson J.N (2012)
     Submission to the Victorian Government on the ‘Future directions for
     native vegetation in Victoria: Review of Victoria’s native
     vegetation permitted clearing regulations’. 13 pages. Available at
-    https://drive.google.com/file/d/0BzQbDh8xyvo2VUJRRDlNVDZSVUk/edit?usp=sharing
+    <https://drive.google.com/file/d/0BzQbDh8xyvo2VUJRRDlNVDZSVUk/edit?usp=sharing>
 
-23. **Gordon A.,** Ives C., Langford W.T., Bekessy S.A., Torabi N.,
+21. **Gordon A.,** Ives C., Langford W.T., Bekessy S.A., Torabi N.,
     Cooke B., Wilson J.N. (2012) Submission to the Australian Government
     on the ‘Draft EPBC Act Environmental Offsets Policy’. 6 pages.
     Available at
-    http://www.environment.gov.au/epbc/reform/pubs/offset-policy/33-rmit-university.pdf
+    <http://www.environment.gov.au/epbc/reform/pubs/offset-policy/33-rmit-university.pdf>
 
-24. **Gordon A.**, Chee Y.E., Garrard G., Heard G., Ives C., Parris K.,
+22. **Gordon A.**, Chee Y.E., Garrard G., Heard G., Ives C., Parris K.,
     Rumpff L. (2011) Submission to the Victorian Government
     ‘Biodiversity Conservation Strategy for Melbourne’s Growth Areas – A
     submission to the Draft for Public Consultation’. 8 pages.
 
-25. Adam P., Barmuta L.A., Bond N., … Gordon A., et al. (2005) Urgent
+23. Adam P., Barmuta L.A., Bond N., … Gordon A., et al. (2005) Urgent
     need for a systematic expansion of freshwater protected areas in
     Australia. Available at
     <https://pdfs.semanticscholar.org/764d/e1504bc7dd99d0e3ac29942790a4231e0751.pdf>
 
 ***Commissioned reports***
 
-26. Gordon A., Sharma R. (2020) Report on thresholding species
+24. Gordon A., Sharma R. (2020) Report on thresholding species
     distribution models for the Christmas Island Strategic Assessment.
     Commissioned report for Open Lines. 12 pages.
 
-27. Gordon A., Peterson I. (2019) Cumberland Subregion Conservation Plan
+25. Gordon A., Peterson I. (2019) Cumberland Subregion Conservation Plan
     — Vegetation Trend Analysis. RMIT University, Melbourne, Victoria.
     Commissioned report for the NSW Department of Planning and
     Environment, Biosis and Open Lines. 48 pages.
 
-28. Gordon A., Koshkina V. (2018) Western Sydney Strategic Plan –
+26. Gordon A., Koshkina V. (2018) Western Sydney Strategic Plan –
     species distribution modelling. Commissioned report for the NSW
     Department of Planning and Environment, Biosis and Open Lines. 38
     pages.
 
-29. Kirk H., Smith T., Backstrom A., Morán-Ordóñez A., Garrard G.E.,
+27. Kirk H., Smith T., Backstrom A., Morán-Ordóñez A., Garrard G.E.,
     **Gordon A.**, Ives C.D., Bekessy S.A., Mata L. (2017) Our City’s
     Little Gems – Butterfly diversity and pollination interactions in
     the City of Melbourne. Report commissioned by the City of Melbourne.
     66 pages. Available at
     <https://luismataresearch.files.wordpress.com/2018/01/kirk-et-al-2017.pdf>
 
-30. Garrard G.E., Faulkner R., Mata L., Torabi N., Peterson I.R.,
+28. Garrard G.E., Faulkner R., Mata L., Torabi N., Peterson I.R.,
     **Gordon A.**, Bekessy S.A. (2016) An assessment of the national
     effort towards feral cat control. A report prepared for the
     Australian Government Department of the Environment and Energy. 69
     pages.
 
-31. Mata L., Ives C.D., Morán-Ordóñez A., Garrard G.E., **Gordon A.**,
+29. Mata L., Ives C.D., Morán-Ordóñez A., Garrard G.E., **Gordon A.**,
     Cranney K., Smith T.R., Backstrom A., Bickel D.J., Hahs A.K.,
     Malipatil M., Moir M.L., Plein M., Porch N., Semeraro L., Walker K.,
     Vesk P.A., Parris K., Bekessy S.A. (2015) The little things that run
@@ -723,42 +720,43 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
     of Melbourne. August 2016. 74 pages. Available at:
     <https://luismataresearch.files.wordpress.com/2016/02/the-little-things-that-run-the-city-201115-lowres.pdf>
 
-32. Ives C., Oke C., Cooke B., **Gordon A.**, Bekessy S.A. (2014)
+30. Ives C., Oke C., Cooke B., **Gordon A.**, Bekessy S.A. (2014)
     Planning for Green Open Space in Urbanising Landscapes. Report for
     Australian Government Department of Environment. 129 pages.
 
-33. Tulloch A.I.T., **Gordon A.**, Rhodes J.R. (2014) Identifying
+31. Tulloch A.I.T., **Gordon A.**, Rhodes J.R. (2014) Identifying
     conservation priorities and evaluating scenarios of cumulative
     impacts of mining infrastructure in the Upper Spencer Gulf Region in
     South Australia. Report for the Australian Government as part of the
     National Environmental Research Plan. 109 pages. Available at
     <https://www.environment.gov.au/system/files/resources/96b5fd89-6160-4e16-bcd9-f4c5965784e5/files/usg-conservation-priorities-report.pdf>
 
-34. **Gordon A.,** Langford W.T., Bekessy S.A. (2011) Modelling the
+32. **Gordon A.,** Langford W.T., Bekessy S.A. (2011) Modelling the
     growth of Sydney and the impacts on the Cumberland Plain Woodland.
     Report prepared for the Australian Government’s Department of
     Sustainability, Environment, Water, Population and Communities. 22
     pages.
 
-35. O’Malley A., **Gordon A.**, McCaffrey N., Broughton C., Sharafi
+33. O’Malley A., **Gordon A.**, McCaffrey N., Broughton C., Sharafi
     S.M., Ewing A. (2011) Biodiversity Connectivity Investigation Stage
     2: Assessment of opportunities for ecological connectivity in the
     Port Phillip and Westernport Catchment. Report prepared for
     Melbourne Water Corporation. 71 pages.
 
-36. O’Malley A., **Gordon A.**, Henry J., Broughton C. (2010)
+34. O’Malley A., **Gordon A.**, Henry J., Broughton C. (2010)
     Biodiversity connectivity investigation. A review of methods to
     assess opportunities for ecological connectivity in the Port Phillip
     and Westernport Catchment. Report prepared for Melbourne Water
     Corporation. 84 pages.
 
-37. McCaffrey A., Henry J., Timms S., Broughton C., Pettifer L., Bryant
+35. McCaffrey A., Henry J., Timms S., Broughton C., Pettifer L., Bryant
     M., Shepherd M., Legg M., **Gordon A.** (2010) Ecological
     connectivity plan for the south-east region of Melbourne. Report
     prepared for the Victorian Department of Sustainability and
     Environment. 136 pages.
 
-38. **Gordon A.**, Langford W.T. (2009) Projections of future grassland
+36. **Gordon A.**, Langford W.T. (2009) Projections of future grassland
     condition change in the west of Melbourne. Report prepared for the
     Victorian Department of Sustainability and Environment. 12 Pages.
+
 
