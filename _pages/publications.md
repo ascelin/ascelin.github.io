@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-articles)&nbsp;&nbsp;&nbsp;&nbsp;[Book chapters](#book-chapters)&nbsp;&nbsp;&nbsp;&nbsp;[Other Research Oupouts](#other-research-outputs)
+Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-articles)&nbsp;&nbsp;&nbsp;&nbsp;[Book chapters](#book-chapters)&nbsp;&nbsp;&nbsp;&nbsp;[Other Research Outputs](#other-research-outputs)
 
 
 ## Refereed Journal Articles 
@@ -530,6 +530,8 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 
 ## Other Research Outputs
 
+**Additional research outputs**
+
 ***Letters to the editor***
 
 1.  Damiens F., Laura M., Backstrom A., Bekessy S., Coffey B., Faulkner
@@ -760,24 +762,3 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
     condition change in the west of Melbourne. Report prepared for the
     Victorian Department of Sustainability and Environment. 12 Pages.
 
-**Media**
-
-39. Junk science: dodgy COVID research sparks mini-pandemic as papers
-    retracted. Crikey Inq, 10 June 2020
-    <https://www.crikey.com.au/2020/06/10/junk-science-dodgy-covid-research-sparks-mini-pandemic-as-papers-retracted/>
-
-40. Biodiversity offsets may allow governments to double dip  
-    ABC Science Online, 23 July 2015  
-    Interview with Dr Ascelin Gordon (quote)
-    <http://www.abc.net.au/science/articles/2015/07/23/4278534.htm>
-    <http://www.uq.edu.au/news/article/2015/07/scientists-see-risks-biodiversity-offsets-misuse>
-
-41. Gordon A et al. (2015) Perverse incentives risk undermining
-    biodiversity offset policies. *<u>Journal of Applied Ecology.</u>*
-    doi: 10.1111/1365-2664.12398 paper was written up in the European
-    Commission's "Science for Environment Policy" update which gets sent
-    to over 18,000 policymakers, academics and business people across
-    Europe to assist in the development of effective, evidence-based
-    policies.  
-    Available at:
-    <http://ec.europa.eu/environment/integration/research/newsalert/pdf/biodiversity_offset_policy_dangers_that_must_be_avoided_415na1_en.pdf>
