@@ -11,6 +11,7 @@ tags:
 ---
 
 by [Ascelin Gordon](https://theconversation.com/profiles/ascelin-gordon-5170), Senior research fellow, RMIT University; [Afshin Jafari](https://theconversation.com/profiles/afshin-jafari-1452222), Research fellow, RMIT University; and [Carl Higgs](https://theconversation.com/profiles/carl-higgs-409315), Research Fellow, Centre for Urban Research, RMIT University
+
 &nbsp;
 
 Mainstream conversations about artificial intelligence (AI) have been dominated by a few key concerns, such as whether superintelligent AI will [wipe us out](https://time.com/6273743/thinking-that-could-doom-us-with-ai), or whether AI will steal our jobs. But we've paid less attention the various other environmental and social impacts of our "consumption" of AI, which are arguably just as important.
