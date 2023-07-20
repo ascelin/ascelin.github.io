@@ -1,5 +1,5 @@
 ---
-title: "Some recent papers on interesting dimensions of biodiversity offsetting"
+title: "The hidden cost of the AI boom: social and environmental exploitation"
 date: 2023-07-20
 categories:
   - Blog
@@ -10,7 +10,6 @@ tags:
   - water use
 ---
 
-Test text 
 
 ## The hidden cost of the AI boom: social and environmental exploitation
 
