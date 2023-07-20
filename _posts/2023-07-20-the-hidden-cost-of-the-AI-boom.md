@@ -62,4 +62,6 @@ AI's growing popularity might eventually trigger the development of [sustainabil
 
 Governments will also play a part. The European Parliament has approved draft legislation to mitigate the risks of AI usage. And earlier this year, the US senate heard testimonies from a range of experts on how AI might be effectively regulated and its harms minimised. China has also [published rules](https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13) on the use of generative AI, requiring security assessments for products offering services to the public.
 
+&nbsp;
+
 This article is republished from [The Conversation](https://theconversation.com/au) under a Creative Commons license. Read the [original article](https://theconversation.com/the-hidden-cost-of-the-ai-boom-social-and-environmental-exploitation-208669).
