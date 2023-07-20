@@ -12,7 +12,6 @@ tags:
 
 by [Ascelin Gordon](https://theconversation.com/profiles/ascelin-gordon-5170), Senior research fellow, RMIT University; [Afshin Jafari](https://theconversation.com/profiles/afshin-jafari-1452222), Research fellow, RMIT University; and [Carl Higgs](https://theconversation.com/profiles/carl-higgs-409315), Research Fellow, Centre for Urban Research, RMIT University
 
-\
 &nbsp;
 
 Mainstream conversations about artificial intelligence (AI) have been dominated by a few key concerns, such as whether superintelligent AI will [wipe us out](https://time.com/6273743/thinking-that-could-doom-us-with-ai), or whether AI will steal our jobs. But we've paid less attention the various other environmental and social impacts of our "consumption" of AI, which are arguably just as important.
@@ -61,8 +60,6 @@ Also, as direct or indirect consumers of AI services, it’s important we're all
 
 AI's growing popularity might eventually trigger the development of [sustainability standards and certifications](https://en.wikipedia.org/wiki/Sustainability_standards_and_certification). These would help users understand and compare the impacts of specific AI services, allowing them to choose those which have been certified. This would be similar to the [Climate Neutral Data Centre Pact](https://www.climateneutraldatacentre.net), wherein European data centre operators have agreed to make data centres climate neutral by 2030.
 
-Governments will also play a part. The European Parliament has approved draft legislation to mitigate the risks of AI usage. And earlier this year, the US senate heard testimonies from a range of experts on how AI might be effectively regulated and its harms minimised. China has also [published rules](https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13) on the use of generative AI, requiring security assessments for products offering services to the public.  
-
-
+Governments will also play a part. The European Parliament has approved draft legislation to mitigate the risks of AI usage. And earlier this year, the US senate heard testimonies from a range of experts on how AI might be effectively regulated and its harms minimised. China has also [published rules](https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13) on the use of generative AI, requiring security assessments for products offering services to the public.
 
 This article is republished from [The Conversation](https://theconversation.com/au) under a Creative Commons license. Read the [original article](https://theconversation.com/the-hidden-cost-of-the-ai-boom-social-and-environmental-exploitation-208669).
