@@ -28,7 +28,7 @@ feature_row:
   - image_path: #/assets/images/mm-free-feature.png
     alt: ""
     title: "Latest blog post:"
-    excerpt: "The hidden cost of the AI boom: social and environmental exploitation"
+    excerpt: "The hidden costs of the AI boom"
     url: "/blog/the-hidden-cost-of-the-AI-boom/"
     btn_class: "btn--primary"
     btn_label: "See here"      
