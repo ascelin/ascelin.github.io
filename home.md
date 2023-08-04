@@ -27,9 +27,9 @@ feature_row:
     btn_label: "Read more about my research"
   - image_path: #/assets/images/mm-free-feature.png
     alt: ""
-    title: "Latest blog post"
-    excerpt: "Resources for dealing with eco-grief in higher education"
-    url: "/blog/resources-for-dealing-with-eco-grief-in-higher-eduation/"
+    title: "Latest blog post:"
+    excerpt: "The hidden cost of the AI boom: social and environmental exploitation"
+    url: "/blog/the-hidden-cost-of-the-AI-boom/"
     btn_class: "btn--primary"
     btn_label: "See here"      
 ---
