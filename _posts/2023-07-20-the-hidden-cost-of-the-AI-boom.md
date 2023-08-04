@@ -10,6 +10,10 @@ tags:
   - water use
 ---
 
+Given the growing hype around the new generative AI tools rapidly coming online, I was keen to investigate and write about the environment costs of the computing infrastructure needed to train and deploy these tools. That also got me thinking about the various social costs involved. Along with two colleagues, Carl and Afshin, from the [Centre for Urban Research](https://cur.org.au/), we wrote the piece below for [The Conversation](https://theconversation.com) on this issue. It was an interesting exercise researching this piece, and you may be surprised by the size of the the carbon and water footprints of generative AI tools.
+
+
+## The hidden cost of the AI boom: social and environmental exploitation
 by [Ascelin Gordon](https://theconversation.com/profiles/ascelin-gordon-5170), Senior research fellow, RMIT University; [Afshin Jafari](https://theconversation.com/profiles/afshin-jafari-1452222), Research fellow, RMIT University; and [Carl Higgs](https://theconversation.com/profiles/carl-higgs-409315), Research Fellow, Centre for Urban Research, RMIT University
 
 &nbsp;
