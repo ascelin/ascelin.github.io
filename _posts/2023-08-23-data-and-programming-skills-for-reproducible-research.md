@@ -17,13 +17,12 @@ I just attended an [online presentation](https://www.eventbrite.com/e/aimos-tip-
 This book provides an overview of skills needed for reproducible and open research using the statistical programming language R and tidyverse packages. It covers reproducible workflows, data visualisation, data tidying and wrangling, archiving, iteration and functions, probability and data simulations. Note that there are short video lectures for each chapter and of course code to reproduce the examples provided.
 
 ### [Guides to Better Science](https://www.britishecologicalsociety.org/publications/guides-to/)
-By the British Ecological Society. In particular see their [Guide to Reproducible Code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf) and [Data Management](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Data-Management-2019.pdf)
+By the British Ecological Society. In particular see their [Guide to Reproducible Code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf) and [Data Management](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Data-Management-2019.pdf).
 
 
-### [Packaging Data Analytical Work Reproducibly Using R](https://dx.doi.org/10.1080/00031305.2017.1375986)
+### Packaging Data Analytical Work Reproducibly Using R
 Useful journal article, here is the full citation:
-
-Marwick B, Boettiger C, Mullen L, (2018) Packaging Data Analytical Work Reproducibly Using R (and Friends). The American Statistician 72, 80–88. https://doi.org/10.1080/00031305.2017.1375986
+Marwick B, Boettiger C, Mullen L, (2018) Packaging Data Analytical Work Reproducibly Using R (and Friends). The American Statistician 72, 80–88. [https://doi.org/10.1080/00031305.2017.1375986](https://dx.doi.org/10.1080/00031305.2017.1375986)
 
 ### [Framework for Open and Reproducible Research (FORRT)](https://forrt.org/)
 FORRT is for advancing research transparency, reproducibility, rigor, and ethics through pedagogical reform and meta-scientific research
