@@ -10,7 +10,7 @@ tags:
   - code
 ---
 
-I just attended an [online presentation](https://www.eventbrite.com/e/aimos-tip-talk-tickets-677719295657) on tips for increasing the reproducibility of your research run by[AIMOS](https://aimos.community/) - Association for Interdisciplinary Meta-Research and Open Science. I asked the community there for some pointers to good resources to help people newish to coding to learning about increasing the reproducibility of their research. There are some great resources our there, and here a few of the ones I though were useful, they are mostly focused on coding in R. I hope others find this list useful too.
+I just attended an [online presentation](https://www.eventbrite.com/e/aimos-tip-talk-tickets-677719295657) on tips for increasing the reproducibility of your research run by [AIMOS](https://aimos.community/) - Association for Interdisciplinary Meta-Research and Open Science. I asked the community there for some pointers to good resources to help people newish to coding to learn about increasing the reproducibility of their research. Here are few of the ones I though were useful, they are mostly focused on coding in R. I hope others find this list useful too.
 
 
 ### [Data Skills for Reproducible Research](https://psyteachr.github.io/reprores-v3)
