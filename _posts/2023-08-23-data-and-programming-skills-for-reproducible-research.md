@@ -4,9 +4,9 @@ date: 2023-08-23
 categories:
   - Blog
 tags:
-  - R
-  - reproducibility
   - reproducible research
+  - R
+  - data management
   - code
 ---
 
