@@ -25,7 +25,7 @@ The research team is as follows:
  * [Katie Moon](https://www.unsw.edu.au/staff/katie-moon) (Chief Investigator, [University of New South Wales](https://www.unsw.edu.au/))
  * [Sayed Iftekhar](https://experts.griffith.edu.au/25772-md-sayed-iftekhar) (Chief Investigator, [Griffith University](https://experts.griffith.edu.au/))
  * [Kerrie Wilson](https://www.qut.edu.au/about/our-people/academic-profiles/kerrie.wilson) (Chief Investigator, [Queensland University of Technology](https://www.qut.edu.au/))
- * [Rebecca Spindler](https://www.bushheritage.org.au/who-we-are/people) (Partner Investigator, Bush Heritage)
+ * [Rebecca Spindler](https://www.bushheritage.org.au/who-we-are/people) (Partner Investigator, [Bush Heritage](https://www.bushheritage.org.au/))
 * [James Fitzsimons](https://www.natureaustralia.org.au/about-us/who-we-are/our-people/james-fitzsimons/) (Partner Investigator, [The Nature Conservancy Australia](https://www.natureaustralia.org.au/))
  
 and I'm really looking forward to working with researchers with a conservation science/ecology background (Wilson, Spindler, Fitzsimons) as well as with a social scientist (Moon) and an environmental economist (Iftekhar).
