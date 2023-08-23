@@ -25,11 +25,11 @@ Useful journal article, here is the full citation:
 Marwick B, Boettiger C, Mullen L, (2018) Packaging Data Analytical Work Reproducibly Using R (and Friends). The American Statistician 72, 80–88. [https://doi.org/10.1080/00031305.2017.1375986](https://dx.doi.org/10.1080/00031305.2017.1375986)
 
 ### [Framework for Open and Reproducible Research (FORRT)](https://forrt.org/)
-FORRT is for advancing research transparency, reproducibility, rigor, and ethics through pedagogical reform and meta-scientific research
+FORRT is for advancing research transparency, reproducibility, rigor, and ethics through pedagogical reform and meta-scientific research.
 
 
 ### [R for Data Science](https://r4ds.hadley.nz/)
-This is the website for the 2nd edition of “R for Data Science”. This book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it and visualize.
+This is the website for the 2nd edition of “R for Data Science”. This book will teach you how to do data science with R. You’ll learn how to get your data into R, get it into the most useful structure, transform it and visualize it.
 
 
 ### [Smallsets](https://lydialucchesi.github.io/smallsets/)
