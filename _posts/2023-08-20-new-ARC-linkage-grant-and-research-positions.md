@@ -32,6 +32,14 @@ I'm looking forward to working on a project that combines researchers with a con
 
 *This project aims to develop a framework for understanding the full suite of benefits derived from privately protected areas in Australia. It will develop and test a new interdisciplinary approach to measure the ecological, socio-cultural, and economic benefits of protected areas to both human and non-human beneficiaries. Outcomes will include a systematic process to effectively gather data, analyse, and report on the full suite of benefits derived from protected areas. The framework will provide a robust evidence base for the range of benefits provided by private protected areas. This will be vital to manage and grow Australia’s protected area network to reduce biodiversity and environmental declines, and meet international commitments.*
 
+Here are a series of potential PPA case studies from managed by the partner organisations that may be used in the research: 
+
+
+| Case study | Organisation | Location | Activities associated with PPA |
+| :--------: | :---------: | :--------------: | :----------------------------: |
+| 1. Naree Station | Bush Heritage | Near Bourke, Western NSW  | Close engagement with Traditional Custodians, local community engagement, accommodation on site, bird surveys |
+| 2. Hamelin Station | Bush Heritage | Near Geraldton, WA | Rare marine stromatolites are present at the site, visits from Australian and international scientists, students, volunteers, an annual science fair during wildflower season, attracting hundreds of visitors, accommodation on site |
+| 3. Gluepot Reserve | Birdlife Australia | 250km Northeast of Adelaide, SA | Run primarily by volunteers, eco-tourism program with visitor camping, threatened species conservation |
+| 4. Covenant cluster | Trust for Nature | Cardinia Shire, Southeast of Melbourne, Vic | Individual landowner stewardship and management, more than 50 properties with conservation covenants, active community, looking to attract new members and advocating to council for support |
+
 The project will also involve employing several new researchers. This includes a Post-Doctoral Research fellow for three years and full time PhD student (both to be based at RMIT University). In addition, there are funds to employ a part-time social science research assistant (to be based at UNSW) and a part-time environmental economics research assistant (to be based at Griffith). I'll be making a separate post specifically about these new positions soon. But for now please [get in touch](https://ascelin.github.io/contact/) if you are interested to find out more about any of these positions.
-
-
