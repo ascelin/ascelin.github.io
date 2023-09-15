@@ -32,7 +32,7 @@ I'm looking forward to working on a project that combines researchers with a con
 
 *This project aims to develop a framework for understanding the full suite of benefits derived from privately protected areas in Australia. It will develop and test a new interdisciplinary approach to measure the ecological, socio-cultural, and economic benefits of protected areas to both human and non-human beneficiaries. Outcomes will include a systematic process to effectively gather data, analyse, and report on the full suite of benefits derived from protected areas. The framework will provide a robust evidence base for the range of benefits provided by private protected areas. This will be vital to manage and grow Australia’s protected area network to reduce biodiversity and environmental declines, and meet international commitments.*
 
-Here are a series of potential PPA case studies from managed by the partner organisations that may be used in the research: 
+Here are a list of PPAs managed by the partner organisations that may be used as case studies in the research: 
 
 
 | Case study | Organisation | Location | Activities associated with PPA |
