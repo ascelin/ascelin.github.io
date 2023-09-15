@@ -13,9 +13,9 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: ""
-    title: "Welcome to my web site"
-    excerpt: "Read about my intention for this site."
-    url: "/blog/welcome-to-my-new-website/"
+    title: "New ARC linkage grant"
+    excerpt: "Focussing on the ecological, socio-cultural, and economic benefits of private protected areas."
+    url: "/blog/new-ARC-linkage-grant-and-research-positions/"
     btn_class: "btn--primary"
     btn_label: "Blog post"
   - image_path: #/assets/images/mm-responsive-feature.png
@@ -28,7 +28,7 @@ feature_row:
   - image_path: #/assets/images/mm-free-feature.png
     alt: ""
     title: "Latest blog post:"
-    excerpt: "The hidden costs of the AI boom"
+    excerpt: "The hidden costs of the AI boom."
     url: "/blog/the-hidden-cost-of-the-AI-boom/"
     btn_class: "btn--primary"
     btn_label: "See here"      
