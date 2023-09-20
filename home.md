@@ -13,8 +13,8 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: ""
-    title: "New ARC linkage grant"
-    excerpt: "Focussing on the ecological, socio-cultural, and economic benefits of private protected areas."
+    title: "New research positions available
+    excerpt: "See here for Postdoc and PhD positions researching private protected areas."
     url: "/blog/new-ARC-linkage-grant-and-research-positions/"
     btn_class: "btn--primary"
     btn_label: "Blog post"
