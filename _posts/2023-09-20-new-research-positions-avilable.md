@@ -14,7 +14,7 @@ Several research positions will become available in March-April 2024 from 3-year
 
 The project will be based at RMIT University, Melbourne and has a range of industry partners including conservation organisations Bush Heritage, BridLife and Trust for Nature.  The investigators of the project include Ascelin Gordon (RMIT University, Melbourne), Katie Moon (University of NSW, Sydney), Sayed Iftekhar (Griffith University, Brisbane), Kerrie Wilson (Queensland University of Technology, Brisbane), Rebecca Spindler (Bush Heritage), and James Fitzsimons (The Nature Conservancy Australia).
 
-Further details about the project can be found here: https://ascelin.github.io/blog/new-ARC-linkage-grant-and-research-positions/ including a list of potential case studies. Below are details about each of the research positions available.
+Further details about the project can be found here: [https://ascelin.github.io/blog/new-ARC-linkage-grant-and-research-positions/](https://ascelin.github.io/blog/new-ARC-linkage-grant-and-research-positions/) including a list of potential case studies. Below are details about each of the research positions available.
 
 **Post Doctorial Research Fellow**  
 This is a 3-year position to be based at RMIT University in Melbourne, starting around April 2024. The position will be open to Australian and international applicants. 
@@ -27,10 +27,10 @@ The project includes funding for a PhD stipend for a student to work on the proj
 Ascelin will be primary supervisor along with co-supervision from other members or the project (and optionally from other academics at RMIT). The PhD research will involve the collation, review, and synthesis of existing approaches for measuring benefit streams, and data collection from the case studies. It will require addressing novel questions about the benefits that flow from PPAs with a stronger focus on the ecological aspects. We are open to students with background in one or more of ecology/conservation, social science, or environmental economics. The PhD research may involve travel to case study PPAs to one or more of Western Australia, South Australia, NSW, and Victoria (see [here](https://ascelin.github.io/blog/new-ARC-linkage-grant-and-research-positions/) for more info).
 
 **Research Assistant 1 – Social Science**  
-This is part-time position based at UNSW under supervision of Katie Moon. Likely start date will be 3rd or 4th quarter of 2024. The position will be open to Australian applicants only and will involve gathering and analysing social-cultural data from the case study PPAs. It may involve travel to case study PPAs in one or more of Western Australia, South Australia, NSW, and Victoria.
+This is part-time position based at UNSW under the supervision of Katie Moon. Likely start date will be 3rd or 4th quarter of 2024. The position will be open to Australian applicants only and will involve gathering and analysing social-cultural data from the case study PPAs. It may involve travel to case study PPAs in one or more of Western Australia, South Australia, NSW, and Victoria.
 
 **Research Assistant 2 – Environmental Economics**  
-This is part-time position based at Griffith University, under supervision of Sayed Iftekhar. Likely start date will be 3rd or 4th quarter of 2024. The position will be open to Australian applicants only and will involve gathering and analysing economic  data from the case study PPAs. It may involve trave to case study PPAs in one or more of Western Australia, South Australia, NSW, and Victoria. 
+This is part-time position based at Griffith University, under the supervision of Sayed Iftekhar. Likely start date will be 3rd or 4th quarter of 2024. The position will be open to Australian applicants only and will involve gathering and analysing economic data from the case study PPAs. It may involve trave to case study PPAs in one or more of Western Australia, South Australia, NSW, and Victoria. 
 
 
 ![image tooltip here](/assets/images/benefit-streams.jpg)
