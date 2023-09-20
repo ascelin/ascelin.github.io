@@ -13,7 +13,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: ""
-    title: "New research positions available
+    title: "New research positions available"
     excerpt: "See here for Postdoc and PhD positions researching private protected areas."
     url: "/blog/new-ARC-linkage-grant-and-research-positions/"
     btn_class: "btn--primary"
