@@ -19,20 +19,20 @@ The project will be based at RMIT University, Melbourne and has a range of indus
 
 Further details about the project can be found here: https://ascelin.github.io/blog/new-ARC-linkage-grant-and-research-positions/ including a list of potential case studies. Below are details about each of the research positions available.
 
-Post Doctorial Research Fellow
+**Post Doctorial Research Fellow**  
 This is a 3-year position to be based at RMIT University in Melbourne, starting around April 2024. The position will be open to Australian and international applicants. 
 
 It will involve all aspects of the project, working closely with the investigators. The Research Fellow will focus on identifying the range of beneficiaries relevant to PPAs and understanding and measuring the benefit streams flowing from the PPAs to these beneficiaries. This is an interdisciplinary project, and it is envisaged that benefit streams investigated would including ecological, socio-cultural, and economic aspects. Thus, we are open to considering applicants with backgrounds in ecology/conservation, social science, or environmental economics.  The ideal applicant would have some knowledge of all three domains with strong expertise in one of them, in addition to knowledge of protected areas and private protected areas in Australia. This role will also involve contributing to the administration and logistics of the project and may involve travel to multiple case study PPAs, which have been identified in Western Australia, South Australia, NSW, and Victoria (see [here](https://ascelin.github.io/blog/new-ARC-linkage-grant-and-research-positions/) for more info).
 
-PhD student 
+**PhD student**  
 The project includes funding for a PhD stipend for a student to work on the project based at RMIT University, starting around April 2024. The position will be open to Australian and international applicants. 
 
 Ascelin will be primary supervisor along with co-supervision from other members or the project (and optionally from other academics at RMIT). The PhD research will involve the collation, review, and synthesis of existing approaches for measuring benefit streams, and data collection from the case studies. It will require addressing novel questions about the benefits that flow from PPAs with a stronger focus on the ecological aspects. We are open to students with background in one or more of ecology/conservation, social science, or environmental economics. The PhD research may involve travel to case study PPAs to one or more of Western Australia, South Australia, NSW, and Victoria (see [here](https://ascelin.github.io/blog/new-ARC-linkage-grant-and-research-positions/) for more info).
 
-Research Assistant 1 – Social Science
+**Research Assistant 1 – Social Science**  
 This is part-time position based at UNSW under supervision of Katie Moon. Likely start date will be 3rd or 4th quarter of 2024. The position will be open to Australian applicants only and will involve gathering and analysing social-cultural data from the case study PPAs. It may involve travel to case study PPAs in one or more of Western Australia, South Australia, NSW, and Victoria.
 
-Research Assistant 2 – Environmental Economics
+**Research Assistant 2 – Environmental Economics**  
 This is part-time position based at Griffith University, under supervision of Sayed Iftekhar. Likely start date will be 3rd or 4th quarter of 2024. The position will be open to Australian applicants only and will involve gathering and analysing economic  data from the case study PPAs. It may involve trave to case study PPAs in one or more of Western Australia, South Australia, NSW, and Victoria. 
 
 
@@ -41,7 +41,7 @@ This is part-time position based at Griffith University, under supervision of Sa
 
 <sup>**Figure 1.** Schematic depiction of beneficiaries and benefit streams under two hypothetical examples. In example 1, where the dominant land use is intensive agriculture, the most significant benefit stream flows to the parcel owner with some remnant native vegetation producing small benefit streams. This is replaced with a diverse range of beneficiaries receiving ecological, financial, social, and cultural benefit streams in example 2, which depicts a PPA implemented in the same parcel with ecotourism and restoration. </sup>
 
-For more information about any of these positions please contact Ascelin Gordon via email: ascelin.gordon@rmit.edu.au
+For more information about any of these positions please contact [Ascelin Gordon](https://ascelin.github.io/contact/)
 
 
 
