@@ -1,5 +1,5 @@
 ---
-title: "New  post doctorial and PhD research positions avilable"
+title: "New  post doctorial and PhD research positions available"
 date: 2023-09-20
 categories:
   - Blog
