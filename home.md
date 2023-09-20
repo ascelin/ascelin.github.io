@@ -15,7 +15,7 @@ feature_row:
     alt: ""
     title: "New research positions available"
     excerpt: "See here for Postdoc and PhD positions researching private protected areas."
-    url: "/blog/new-ARC-linkage-grant-and-research-positions/"
+    url: "/blog/2023-09-20-new-research-positions-avilable/"
     btn_class: "btn--primary"
     btn_label: "Blog post"
   - image_path: #/assets/images/mm-responsive-feature.png
