@@ -39,7 +39,7 @@ This is part-time position based at Griffith University, under supervision of Sa
 ![image tooltip here](/assets/images/benefit-streams.jpg)
 
 
-<sup>Figure. 1. Schematic depiction of beneficiaries and benefit streams under two hypothetical examples. In example 1, where the dominant land use is intensive agriculture, the most significant benefit stream flows to the parcel owner with some remnant native vegetation producing small benefit streams. This is replaced with a diverse range of beneficiaries receiving ecological, financial, social, and cultural benefit streams in example 2, which depicts a PPA implemented in the same parcel with ecotourism and restoration. </sup>
+<sup>**Figure 1.** Schematic depiction of beneficiaries and benefit streams under two hypothetical examples. In example 1, where the dominant land use is intensive agriculture, the most significant benefit stream flows to the parcel owner with some remnant native vegetation producing small benefit streams. This is replaced with a diverse range of beneficiaries receiving ecological, financial, social, and cultural benefit streams in example 2, which depicts a PPA implemented in the same parcel with ecotourism and restoration. </sup>
 
 For more information about any of these positions please contact Ascelin Gordon via email: ascelin.gordon@rmit.edu.au
 
