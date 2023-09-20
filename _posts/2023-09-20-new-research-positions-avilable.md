@@ -14,7 +14,7 @@ Several research positions will become available in March-April 2024 from 3-year
 
 The project will be based at RMIT University, Melbourne and has a range of industry partners including conservation organisations Bush Heritage, BridLife and Trust for Nature.  The investigators of the project include Ascelin Gordon (RMIT University, Melbourne), Katie Moon (University of NSW, Sydney), Sayed Iftekhar (Griffith University, Brisbane), Kerrie Wilson (Queensland University of Technology, Brisbane), Rebecca Spindler (Bush Heritage), and James Fitzsimons (The Nature Conservancy Australia).
 
-Further details about the project can be found here: [https://ascelin.github.io/blog/new-ARC-linkage-grant-and-research-positions/](https://ascelin.github.io/blog/new-ARC-linkage-grant-and-research-positions/) including a list of potential case studies. Below are details about each of the research positions available.
+Further details about the project can be found [here](https://ascelin.github.io/blog/new-ARC-linkage-grant-and-research-positions/) including a list of potential case studies. Below are details about each of the research positions available.
 
 **Post Doctorial Research Fellow**  
 This is a 3-year position to be based at RMIT University in Melbourne, starting around April 2024. The position will be open to Australian and international applicants. 
