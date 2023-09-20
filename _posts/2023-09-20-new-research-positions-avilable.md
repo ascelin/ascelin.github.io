@@ -36,12 +36,10 @@ Research Assistant 2 – Environmental Economics
 This is part-time position based at Griffith University, under supervision of Sayed Iftekhar. Likely start date will be 3rd or 4th quarter of 2024. The position will be open to Australian applicants only and will involve gathering and analysing economic  data from the case study PPAs. It may involve trave to case study PPAs in one or more of Western Australia, South Australia, NSW, and Victoria. 
 
 
-
-
 ![image tooltip here](/assets/images/benefit-streams.jpg)
 
 
-Figure. 1. Schematic depiction of beneficiaries and benefit streams under two hypothetical examples. In example 1, where the dominant land use is intensive agriculture, the most significant benefit stream flows to the parcel owner with some remnant native vegetation producing small benefit streams. This is replaced with a diverse range of beneficiaries receiving ecological, financial, social, and cultural benefit streams in example 2, which depicts a PPA implemented in the same parcel with ecotourism and restoration.
+<sup>Figure. 1. Schematic depiction of beneficiaries and benefit streams under two hypothetical examples. In example 1, where the dominant land use is intensive agriculture, the most significant benefit stream flows to the parcel owner with some remnant native vegetation producing small benefit streams. This is replaced with a diverse range of beneficiaries receiving ecological, financial, social, and cultural benefit streams in example 2, which depicts a PPA implemented in the same parcel with ecotourism and restoration. </sup>
 
 For more information about any of these positions please contact Ascelin Gordon via email: ascelin.gordon@rmit.edu.au
 
