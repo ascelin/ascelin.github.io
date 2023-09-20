@@ -13,11 +13,11 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: ""
-    title: "New research positions available"
-    excerpt: "See here for Postdoc and PhD positions researching private protected areas."
+    title: "New research positions available!"
+    excerpt: "For info on a Postdoc and PhD position researching private protected areas:"
     url: "/blog/new-research-positions-avilable/"
     btn_class: "btn--primary"
-    btn_label: "Blog post"
+    btn_label: "See here"
   - image_path: #/assets/images/mm-responsive-feature.png
     alt: ""
     title: "My research areas"
