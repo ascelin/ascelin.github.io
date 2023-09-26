@@ -15,7 +15,7 @@ feature_row:
     alt: ""
     title: "New research positions available!"
     excerpt: "For info on a Postdoc and PhD position researching private protected areas:"
-    url: "/blog/new-research-positions-avilable/"
+    url: "/blog/new-research-positions-aviliable/"
     btn_class: "btn--primary"
     btn_label: "See here"
   - image_path: #/assets/images/mm-responsive-feature.png
