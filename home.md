@@ -13,9 +13,9 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: ""
-    title: "New research positions available!"
+    title: "New research positions available for April 2024!"
     excerpt: "For info on a Postdoc and PhD position researching private protected areas:"
-    url: "/blog/new-research-positions-aviliable/"
+    url: "/blog/new-research-positions-available/"
     btn_class: "btn--primary"
     btn_label: "See here"
   - image_path: #/assets/images/mm-responsive-feature.png
@@ -27,7 +27,7 @@ feature_row:
     btn_label: "Read more about my research"
   - image_path: #/assets/images/mm-free-feature.png
     alt: ""
-    title: "Latest blog post:"
+    title: "Recent blog post:"
     excerpt: "The hidden costs of the AI boom."
     url: "/blog/the-hidden-cost-of-the-AI-boom/"
     btn_class: "btn--primary"
