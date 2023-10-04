@@ -16,13 +16,13 @@ The project will be based out of RMIT University, Melbourne, and has a range of 
 
 Further details about the project can be found [here](https://ascelin.github.io/blog/new-ARC-linkage-grant-and-research-positions/), including a list of potential case studies. Below, details of each of the research positions are provided.
 
-**Post-Doctorial Research Fellow**  
+**Post-Doctoral Research Fellow**  
 This is a 3-year position to be based at RMIT University in Melbourne, starting around April 2024. The position will be open to Australian and international applicants. 
 
 The role will involve all aspects of the project, working closely with the investigators. The Research Fellow will focus on processes for identifying the range of beneficiaries relevant to PPAs and generating the theoretical framework for understanding and measuring the benefit streams flowing from the PPAs to these beneficiaries. This is an interdisciplinary project, and it is envisaged that benefit streams investigated would include ecological, socio-cultural, and economic aspects. Thus, we are open to considering applicants with backgrounds in one or more of ecology/conservation, social science, and/or environmental economics.  The ideal applicant would have some knowledge of all three domains with strong expertise in at least one of them, in addition to some knowledge of protected areas and private protected areas in Australia. This role will also involve contributing to the administration and logistics of the project and may involve travel to case study PPAs, which have been identified in Western Australia, South Australia, NSW, and Victoria.
 
 
-**PhD student**  
+**PhD Student**  
 The project includes funding for a PhD stipend for a student to work on the project based at RMIT University, starting around April 2024. The position will be open to Australian and international applicants and standard RMIT PhD eligibility requirements will apply (see [here](https://www.rmit.edu.au/research/research-degrees/how-to-apply)). 
 
 Ascelin will be primary supervisor along with co-supervision from other members or the project (and optionally from other academics at RMIT). The PhD research will involve: (i) the collation, review, and synthesis of existing approaches for measuring benefit streams; (ii) data collection from the case studies and analysis of that data measure specific benefit streams. This will require addressing novel questions about the benefits that flow from PPAs with a stronger focus on the aspects (ecological, social or economic) relevant to the applicant’s background. We are open to students with backgrounds in one or more of ecology/conservation, social science, and/or environmental economics. The PhD research may involve travel to case study PPAs in one or more of Western Australia, South Australia, NSW, and Victoria.
