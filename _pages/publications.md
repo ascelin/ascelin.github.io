@@ -11,12 +11,12 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 
 1.  Sharma R., Jones S., Robinson D., **Gordon A.** (2023) Evaluating the impact of private land
     conservation using synthetic control design. *<u>Conservation
-    Biology</u>*.<https://doi.org/10.1111/cobi.14150>
+    Biology</u>*. <https://doi.org/10.1111/cobi.14150>
 
 2.  zu Ermgassen S.O.S.E., Devenish K., Simmons B.A**., Gordon A.**,
     Jones J.P.G., Maron M., Bühne H.K., Sharma R., Sonter L.J., Strange
     N., Ward M., Bull J.W. (2023) Evaluating the impact of biodiversity
-    offsetting on native vegetation. *<u>Global Change Biology.</u>*
+    offsetting on native vegetation. *<u>Global Change Biology</u>*.
     <https://doi.org/10.1111/gcb.16801>
 
 3.  Gutierrez A., Santin C.S., Bekessy S.A., **Gordon A.** (2022)
