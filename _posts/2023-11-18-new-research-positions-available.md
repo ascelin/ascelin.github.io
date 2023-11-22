@@ -1,5 +1,5 @@
 ---
-title: "New Post-Doctoral, PhD and RA positions available"
+title: "New research positions available for ARC Linkage project on private protected areas"
 date: 2023-11-18
 categories:
   - Blog
@@ -11,19 +11,20 @@ tags:
 ---
 Private land conservation refers to the voluntary efforts undertaken to conserve biodiversity on private properties. This work is often achieved through private protected areas (PPAs), which are privately owned land parcels primarily managed for the purpose of biodiversity conservation.
 
-There are many unanswered questions concerning PPAs including: (i) What are the contributions PPAs are making to reducing biodiversity loss? (ii) Are there benefits from PPAs beyond biodiversity conservation, such as socio-cultural and economic benefits? (iii) To what extent do these benefits arise within the boundaries of a PPA, and what sort of benefit flows from (and into) the PPA occur? (iv) Who are the human, non-human, current and future beneficiaries of these benefit streams? (v) What dis-benefit flows arise from PPAs and what are the effects of these dis-benefits?
+There are many unanswered questions concerning PPAs including: (i) What are the contributions PPAs are making to reducing biodiversity loss? (ii) Are there benefits from PPAs beyond biodiversity conservation, such as socio-cultural and economic benefits? (iii) To what extent do these benefits arise within the boundaries of a PPA, and what sort of benefit flows into and out of the PPA occur? (iv) Who are the human, non-human, current and future beneficiaries of these benefit streams? (v) What dis-benefit flows arise from PPAs and what are the effects of these dis-benefits? Figure 1, below, shows a schematic representation of beneficiaries and benefits streams.
 
-These are some of the questions we will be addressing in a new 3-year Linkage Project recently funded by the Australian Research Council titled *“More than a reserve? Measuring the benefits of private protected areas”*. See Figure 1, below.
+These are some of the questions we will be addressing in a new 3-year Linkage Project recently funded by the Australian Research Council titled “*More than a reserve? Measuring the benefits of private protected areas*”. 
 
-This interdisciplinary project, based at RMIT University (Melbourne), brings together top researchers from academia (UNSW, Griffith University, and QUT) along with NGOs and the most important organisations for private protected areas in Australia: Bush Heritage Australia, BridLife Australia, Trust for Nature, The Nature Conservancy, and the Australian Land Conservation Alliance. More details about the project, including personnel and a list of potential PPA case studies, can be found [here](https://ascelin.github.io/blog/new-ARC-linkage-grant-and-research-positions). 
+This interdisciplinary project, based at RMIT University (Melbourne), brings together top researchers from academia (UNSW, Griffith, and QUT) along with NGOs and the most important organisations involved with private protected areas in Australia: Bush Heritage Australia, BridLife Australia, Trust for Nature, The Nature Conservancy, and the Australian Land Conservation Alliance. More details about the project, including personnel and a list of potential PPA case studies, can be found [here](https://ascelin.github.io/blog/new-ARC-linkage-grant-and-research-positions). 
 
 Several research positions will become available within this project comprising a 3-year Post-Doctoral Research Fellowship and PhD scholarship (both starting around April 2024), and 2 Research Assistants (part-time/casual), starting late 2024. These positions are described in more detail below and are suitable for people who are:
 
 * Passionate about private protected areas and biodiversity conservation;
 * Inspired by working on a project with leading conservation organisations in Australia;
-* Keen to undertake research that builds the evidence base on the impacts that PPAs are making, and assisting PPA organisations to leverage more support for their important work;
+* Keen to undertake research that builds the evidence base on the benefits accruing from PPAs, and assist PPA organisations to leverage more support for their important work;
 * Motivated by solving interdisciplinary problems, involving collaboration across academia, conservation organisations and government; and
 * Keen to learn about and make significant contributions to national and international environmental reporting frameworks. 
+
 
 **Post-Doctoral Research Fellow**  
 This is a 3-year position to be based at RMIT University in Melbourne, starting around April 2024. The position will be open to Australian and international applicants. Applicants are encouraged to discuss the flexible working arrangements for this role. 
@@ -41,9 +42,9 @@ Dr Ascelin Gordon will be the primary supervisor along with co-supervision from 
 
 The PhD research may involve travel to one or more case study PPAs, which have been identified in Western Australia, South Australia, NSW, and Victoria.
 
+
 **Research Assistant 1 – Social Science**  
 This is part-time/casual position based at UNSW under supervision of Dr Katie Moon. Likely start date will be from the 3rd or 4th quarter of 2024. The position will be open to Australian applicants only and will involve gathering and analysing social-cultural data from the case study PPAs. 
-
 
 **Research Assistant 2 – Environmental Economics**  
 This is part-time/casual position based at Griffith University, under supervision of A/Prof Sayed Iftekhar. The likely start date will be from the 3rd or 4th quarter of 2024. The position will be open to Australian applicants only and will involve gathering and analysing economic data from the case study PPAs. 
