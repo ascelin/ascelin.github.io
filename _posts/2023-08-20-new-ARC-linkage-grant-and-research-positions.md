@@ -26,7 +26,7 @@ The research team is as follows:
  * [Sayed Iftekhar](https://experts.griffith.edu.au/25772-md-sayed-iftekhar) (Chief Investigator, [Griffith University](https://experts.griffith.edu.au/))
  * [Kerrie Wilson](https://www.qut.edu.au/about/our-people/academic-profiles/kerrie.wilson) (Chief Investigator, [Queensland University of Technology](https://www.qut.edu.au/))
  * [Rebecca Spindler](https://www.bushheritage.org.au/who-we-are/people) (Partner Investigator, [Bush Heritage](https://www.bushheritage.org.au/))
-* [James Fitzsimons](https://www.natureaustralia.org.au/about-us/who-we-are/our-people/james-fitzsimons/) (Partner Investigator, [The Nature Conservancy Australia](https://www.natureaustralia.org.au/))
+* [James Fitzsimons](https://www.nature.org/en-us/about-us/who-we-are/our-people/james-fitzsimons/) (Partner Investigator, [The Nature Conservancy](https://www.natureaustralia.org.au/))
  
 I'm looking forward to working on a project that combines researchers with a conservation science/ecology background (Wilson, Spindler, Fitzsimons) with a social scientist (Moon) and an environmental economist (Iftekhar). Here is the official description of the project from our funding application:
 
