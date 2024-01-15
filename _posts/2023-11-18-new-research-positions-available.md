@@ -36,11 +36,13 @@ This position requires a PhD or equivalent in conservation science, ecology, soc
 This role will also involve contributing to the administration and logistics of the project and will likely involve travel to one or more case study PPAs, which have been identified in Western Australia, South Australia, NSW, and Victoria.
 
 **PhD Student**  
-The project includes funding for a PhD stipend for a student based at RMIT University, starting around April 2024. The position will be open to Australian and international applicants and standard RMIT PhD eligibility requirements will apply (see [here](https://www.rmit.edu.au/research/research-degrees/how-to-apply)). 
+The project includes funding for a PhD stipend for a student based at RMIT University, starting around April 2024. The position will be open to Australian and international applicants and standard RMIT PhD eligibility requirements will apply.
 
 Dr Ascelin Gordon will be the primary supervisor along with co-supervision from other investigators on the project (and optionally, other academics at RMIT). The PhD research will involve: (i) the collation, review, and synthesis of existing approaches for measuring benefit streams from PPAs; and (ii) data collection from the case studies and analysis of that data to measure specific benefit streams. This work will require addressing novel questions regarding the benefits that flow from (and to) PPAs, including social, ecological, and economic aspects of benefit streams. Applicants with backgrounds in one or more of, social science, ecology/conservation or environmental economics will be considered, and applicants should be able to demonstrate a capacity to implement or learn qualitative and quantitative methods relevant to understanding socio-ecological systems.
 
 The PhD research may involve travel to one or more case study PPAs, which have been identified in Western Australia, South Australia, NSW, and Victoria.
+
+*To apply for the PhD position:* follow the instructions [here](https://www.rmit.edu.au/students/careers-opportunities/scholarships/research/phd-scholarship-to-study-benefits-of-private-land-conservation)
 
 
 **Research Assistant 1 – Social Science**  
