@@ -42,7 +42,7 @@ Dr Ascelin Gordon will be the primary supervisor along with co-supervision from 
 
 The PhD research may involve travel to one or more case study PPAs, which have been identified in Western Australia, South Australia, NSW, and Victoria.
 
-*To apply for the PhD position:* follow the instructions [here](https://www.rmit.edu.au/students/careers-opportunities/scholarships/research/phd-scholarship-to-study-benefits-of-private-land-conservation)
+*To apply for the PhD position:* follow the instructions [here](https://www.rmit.edu.au/students/careers-opportunities/scholarships/research/phd-scholarship-to-study-benefits-of-private-land-conservation).
 
 
 **Research Assistant 1 – Social Science**  
