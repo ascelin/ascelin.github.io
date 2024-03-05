@@ -35,7 +35,7 @@ This position requires a PhD or equivalent in conservation science, ecology, soc
 
 This role will also involve contributing to the administration and logistics of the project and will likely involve travel to one or more case study PPAs, which have been identified in Western Australia, South Australia, NSW, and Victoria.
 
-Applications for the position are now open on the RMIT Web. To apply please click [here](https://rmit.wd3.myworkdayjobs.com/RMIT_Careers/job/Melbourne/Research-Fellow--Private-Land-Conservation_JR25700) (note internal RMIT applicants should apply via this [link](https://wd3.myworkday.com/rmit/d/inst/9925$31524/rel-task/2998$16774.htmld)). Applications close 7 April 2024 at 11.59 pm AEST.
+Applications for the position are now open via the RMIT web site. To apply please click [here](https://rmit.wd3.myworkdayjobs.com/RMIT_Careers/job/Melbourne/Research-Fellow--Private-Land-Conservation_JR25700) (note internal RMIT applicants should apply via this [link](https://wd3.myworkday.com/rmit/d/inst/9925$31524/rel-task/2998$16774.htmld)). Applications close 7 April 2024 at 11.59 pm AEST.
 
 **PhD Student**  
 The project includes funding for a PhD stipend for a student based at RMIT University, starting around April 2024. The position will be open to Australian and international applicants and standard RMIT PhD eligibility requirements will apply.
