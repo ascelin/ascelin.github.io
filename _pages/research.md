@@ -39,7 +39,7 @@ Florence Damiens, thesis topic: "Transnational discourses, policy practices and 
 
 
 ## Completed PhD students 
-Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions" (completed 2023). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341] (https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341)
+Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions" (completed 2023). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341](https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341)
 
 Marco Gutiérrez, thesis topic: "Biodiversity and ecosystem services in strategic environmental assessment: evaluating outcomes, challenges, and opportunities" (completed 2022). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9922177313301341](https://researchrepository.rmit.edu.au/esploro/outputs/9922177313301341){:target="_blank"}.
 
