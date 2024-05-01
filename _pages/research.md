@@ -28,15 +28,18 @@ To come...
 # Supervision
 
 ## Current PhD students 
-Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions".
+
+Euan Brown, thesis topic "Identifying a nature positive approach to infrastructure planning and delivery in Australia".
 
 Dale Wright, thesis topic: "Investigating the social-ecological sustainability of coffee".
 
+Stephanie Wong, thesis topic: "Deforestation spillover in impact evaluation of conservation interventions".
+
 Florence Damiens, thesis topic: "Transnational discourses, policy practices and the production of natures: the case of biodiversity offset policies in France and Australia".
 
-Stephanie Wong, thesis topic: "TBC".
 
 ## Completed PhD students 
+Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions" (completed 2023). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341] (https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341)
 
 Marco Gutiérrez, thesis topic: "Biodiversity and ecosystem services in strategic environmental assessment: evaluating outcomes, challenges, and opportunities" (completed 2022). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9922177313301341](https://researchrepository.rmit.edu.au/esploro/outputs/9922177313301341){:target="_blank"}.
 
@@ -53,6 +56,9 @@ Alex Kusmanoff, thesis topic: “Framing the conservation conversation: an inves
 
 Fatemeh Poodat, thesis topic: “Assessment of ecological connectivity for urban environments: A multispecies approach” (completed 2013). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921861315601341](https://researchrepository.rmit.edu.au/esploro/outputs/9921861315601341){:target="_blank"}
 
+## Current Masters students
+
+Luc Skibinskim, thesis topic "Evaluating the impact of Victoria’s planning exemptions on native vegetation removal in three locales"
 
 ## Past Masters, Honours and other students 
 
