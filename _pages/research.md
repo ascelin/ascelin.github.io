@@ -39,7 +39,7 @@ To come...
 
 
 ## Completed PhD students 
-* Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions" (completed 2023). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341](https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341)
+* Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions" (completed 2023). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341](https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341){:target="_blank"}.
 
 * Marco Gutiérrez, thesis topic: "Biodiversity and ecosystem services in strategic environmental assessment: evaluating outcomes, challenges, and opportunities" (completed 2022). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9922177313301341](https://researchrepository.rmit.edu.au/esploro/outputs/9922177313301341){:target="_blank"}.
 
@@ -52,7 +52,7 @@ To come...
 
 * Mat Hardy, thesis topic: “A revolution in conservation funding: exploring the use of revolving funds to protect nature on private land” (completed 2017). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921864032701341](https://researchrepository.rmit.edu.au/esploro/outputs/9921864032701341){:target="_blank"}
 
-* Alex Kusmanoff, thesis topic: “Framing the conservation conversation: an investigation into framing techniques for communicating biodiversity conservation” (completed in 2017). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921863894901341](https://researchrepository.rmit.edu.au/esploro/outputs/9921863894901341){:target="_blank"}
+* Alex Kusmanoff, thesis topic: “Framing the conservation conversation: an investigation into framing techniques for communicating biodiversity conservation” (completed 2017). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921863894901341](https://researchrepository.rmit.edu.au/esploro/outputs/9921863894901341){:target="_blank"}
 
 * Fatemeh Poodat, thesis topic: “Assessment of ecological connectivity for urban environments: A multispecies approach” (completed 2013). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921861315601341](https://researchrepository.rmit.edu.au/esploro/outputs/9921861315601341){:target="_blank"}
 
