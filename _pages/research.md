@@ -29,13 +29,13 @@ To come...
 
 ## Current PhD students 
 
-Euan Brown, thesis topic "Identifying a nature positive approach to infrastructure planning and delivery in Australia".
+* Euan Brown, thesis topic "Identifying a nature positive approach to infrastructure planning and delivery in Australia".
 
-Dale Wright, thesis topic: "Investigating the social-ecological sustainability of coffee".
+* Dale Wright, thesis topic: "Investigating the social-ecological sustainability of coffee".
 
-Stephanie Wong, thesis topic: "Deforestation spillover in impact evaluation of conservation interventions".
+* Stephanie Wong, thesis topic: "Deforestation spillover in impact evaluation of conservation interventions".
 
-Florence Damiens, thesis topic: "Transnational discourses, policy practices and the production of natures: the case of biodiversity offset policies in France and Australia".
+* Florence Damiens, thesis topic: "Transnational discourses, policy practices and the production of natures: the case of biodiversity offset policies in France and Australia".
 
 
 ## Completed PhD students 
