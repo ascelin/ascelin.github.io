@@ -50,7 +50,7 @@ Vira Koshkina, thesis topic: “Stochastic ecological models for predicting spec
 [https://researchrepository.rmit.edu.au/esploro/outputs/9921864050001341](https://researchrepository.rmit.edu.au/esploro/outputs/9921864050001341){:target="_blank"}
 
 
-Mat Hardy, thesis topic: “A revolution in conservation funding: exploring the use of revolving funds to protect nature on private land” (completed 2017). Thesis available at[https://researchrepository.rmit.edu.au/esploro/outputs/9921864032701341](https://researchrepository.rmit.edu.au/esploro/outputs/9921864032701341){:target="_blank"}
+Mat Hardy, thesis topic: “A revolution in conservation funding: exploring the use of revolving funds to protect nature on private land” (completed 2017). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921864032701341](https://researchrepository.rmit.edu.au/esploro/outputs/9921864032701341){:target="_blank"}
 
 Alex Kusmanoff, thesis topic: “Framing the conservation conversation: an investigation into framing techniques for communicating biodiversity conservation” (completed in 2017). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921863894901341](https://researchrepository.rmit.edu.au/esploro/outputs/9921863894901341){:target="_blank"}
 
@@ -58,20 +58,17 @@ Fatemeh Poodat, thesis topic: “Assessment of ecological connectivity for urban
 
 ## Current Masters students
 
-Luc Skibinskim, thesis topic "Evaluating the impact of Victoria’s planning exemptions on native vegetation removal in three locales"
+Luc Skibinskim, thesis topic "Evaluating the impact of Victoria’s planning exemptions on native vegetation removal in three locales".
 
-## Past Masters, Honours and other students 
+## Past Masters students 
 
-Adam Dzunko, thesis topic: "Assessing Eastern Ground Parrot (Pezoporus wallicus wallicus) populations in the Marlo and Cape Conran area following the 2019/20 bushfires" (completed 2021). Masters thesis. 
-
-Cameron Beetham, thesis topic: “Citizen Science in Native Grasslands" (completed 2021). Undergraduate Thesis. 
+Adam Dzunko, thesis topic: "Assessing Eastern Ground Parrot (Pezoporus wallicus wallicus) populations in the Marlo and Cape Conran area following the 2019/20 bushfires" (completed 2021). Masters thesis.
  
 Anna O'Brien, thesis topic: “Critical review of assumptions of gains in biodiversity under Victorian offsetting policy" (completed 2020). Masters thesis. Thesis available at [https://doi.org/10.31219/osf.io/nv4za](https://doi.org/10.31219/osf.io/nv4za){:target="_blank"}
 
-David Attard, thesis topic: “Evaluating Melbourne’s newest conservation areas for a set of threatened species using the Zonation Conservation Planning Tool” (completed 2013). Masters thesis.
-
 Travis Ittensohn, thesis topic: “Measuring Biodiversity Impacts and Priorities in Relation to Urban Expansion at the National Scale” (completed 2017). Masters thesis.
 
+David Attard, thesis topic: “Evaluating Melbourne’s newest conservation areas for a set of threatened species using the Zonation Conservation Planning Tool” (completed 2013). Masters thesis.
 
 [BCT-link]:https://www.bct.nsw.gov.au/
 [SLATS-NSW]:https://www.environment.nsw.gov.au/topics/animals-and-plants/native-vegetation/landcover-monitoring-and-reporting/woody-vegetation-change-statewide-landcover-tree-study/more-about-slats
