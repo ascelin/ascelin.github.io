@@ -56,19 +56,19 @@ Alex Kusmanoff, thesis topic: “Framing the conservation conversation: an inves
 
 Fatemeh Poodat, thesis topic: “Assessment of ecological connectivity for urban environments: A multispecies approach” (completed 2013). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921861315601341](https://researchrepository.rmit.edu.au/esploro/outputs/9921861315601341){:target="_blank"}
 
-## Current Masters students
+## Current Master's students
 
 Luc Skibinskim, thesis topic "Evaluating the impact of Victoria’s planning exemptions on native vegetation removal in three locales".
 
-## Past Masters students 
+## Past Master's students 
 
-Adam Dzunko, thesis topic: "Assessing Eastern Ground Parrot (Pezoporus wallicus wallicus) populations in the Marlo and Cape Conran area following the 2019/20 bushfires" (completed 2021). Masters thesis.
+Adam Dzunko, thesis topic: "Assessing Eastern Ground Parrot (Pezoporus wallicus wallicus) populations in the Marlo and Cape Conran area following the 2019/20 bushfires" (completed 2021). Master's thesis.
  
-Anna O'Brien, thesis topic: “Critical review of assumptions of gains in biodiversity under Victorian offsetting policy" (completed 2020). Masters thesis. Thesis available at [https://doi.org/10.31219/osf.io/nv4za](https://doi.org/10.31219/osf.io/nv4za){:target="_blank"}
+Anna O'Brien, thesis topic: “Critical review of assumptions of gains in biodiversity under Victorian offsetting policy" (completed 2020). Master's thesis. Thesis available at [https://doi.org/10.31219/osf.io/nv4za](https://doi.org/10.31219/osf.io/nv4za){:target="_blank"}
 
-Travis Ittensohn, thesis topic: “Measuring Biodiversity Impacts and Priorities in Relation to Urban Expansion at the National Scale” (completed 2017). Masters thesis.
+Travis Ittensohn, thesis topic: “Measuring Biodiversity Impacts and Priorities in Relation to Urban Expansion at the National Scale” (completed 2017). Master's thesis.
 
-David Attard, thesis topic: “Evaluating Melbourne’s newest conservation areas for a set of threatened species using the Zonation Conservation Planning Tool” (completed 2013). Masters thesis.
+David Attard, thesis topic: “Evaluating Melbourne’s newest conservation areas for a set of threatened species using the Zonation Conservation Planning Tool” (completed 2013). Master's thesis.
 
 [BCT-link]:https://www.bct.nsw.gov.au/
 [SLATS-NSW]:https://www.environment.nsw.gov.au/topics/animals-and-plants/native-vegetation/landcover-monitoring-and-reporting/woody-vegetation-change-statewide-landcover-tree-study/more-about-slats
