@@ -17,8 +17,8 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 
 2.  Gutierrez A., **Gordon A.**, Bekessy SA. (2024) Challenges and
     lessons of implementing strategic environmental assessment in
-    critically endangered ecosystems. <u>*Journal of Environmental
-    Planning and Management*.</u>
+    critically endangered ecosystems. *<u>Journal of Environmental
+    Planning and Management.</u>*
     <https://doi.org/10.1080/09640568.2024.2303737>
 
 3.  O’Brien A., **Gordon A.** (2024) Evaluation of averted loss gains
@@ -27,7 +27,7 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 
 4.  Sharma R., Jones S., Robinson D., **Gordon A.** (2023) Evaluating
     the impact of private land conservation using synthetic control
-    design. *<u>Conservation Biology</u>*.
+    design. *<u>Conservation Biology</u>*. 37: 1-13. 
     <https://doi.org/10.1111/cobi.14150>
 
 5.  zu Ermgassen S.O.S.E., Devenish K., Simmons B.A**., Gordon A.**,
@@ -40,7 +40,7 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
     Contextual challenges for implementing strategic environmental
     assessment in the Global South: insights from a case study in
     Mexico. *<u>Impact Assessment and Project Appraisal</u>*.
-    41:139-153. 37: 1-13.
+    41:139-153.
     <https://doi.org/10.1080/14615517.2022.2157111>
 
 7.  Kujala H., Maron M., Kennedy C.M., Bull J.W., Evans M.C., Wintle
@@ -548,7 +548,7 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 ***Letters to the editor***
 
 1.  Sharma R., Barnes M., Bista A., **Gordon, A**. (2023) Putting
-    technology between people and tigers. Animal Conservation 26,
+    technology between people and tigers. *<u>Animal Conservation 26</u>*,
     277–278. <https://doi.org/10.1111/acv.12850>
 
 2.  Damiens F., Laura M., Backstrom A., Bekessy S., Coffey B., Faulkner
