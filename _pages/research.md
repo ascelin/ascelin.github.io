@@ -29,13 +29,17 @@ To come...
 
 ## Current PhD students 
 
-* Euan Brown, thesis topic "Identifying a nature positive approach to infrastructure planning and delivery in Australia".
+* James O'mahony, thesis topic: TBC.
+
+* Kylie Gordon, thesis topic: TBC.
+
+* Euan Brown, thesis topic: "Identifying a nature positive approach to infrastructure planning and delivery in Australia".
 
 * Dale Wright, thesis topic: "Investigating the social-ecological sustainability of coffee".
 
 * Stephanie Wong, thesis topic: "Deforestation spillover in impact evaluation of conservation interventions".
 
-* Florence Damiens, thesis topic: "Transnational discourses, policy practices and the production of natures: the case of biodiversity offset policies in France and Australia".
+* Florence Damiens, thesis topic: "Governing development, governing conservation: A genealogy of biodiversity offset politics across scales and time".
 
 
 ## Completed PhD students 
