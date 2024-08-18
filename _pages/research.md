@@ -53,14 +53,13 @@ To come...
 * Vira Koshkina, thesis topic: “Stochastic ecological models for predicting species distribution and extinction” (completed 2019).  Thesis available at
 [https://researchrepository.rmit.edu.au/esploro/outputs/9921864050001341](https://researchrepository.rmit.edu.au/esploro/outputs/9921864050001341){:target="_blank"}
 
-
 * Mat Hardy, thesis topic: “A revolution in conservation funding: exploring the use of revolving funds to protect nature on private land” (completed 2017). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921864032701341](https://researchrepository.rmit.edu.au/esploro/outputs/9921864032701341){:target="_blank"}
 
 * Alex Kusmanoff, thesis topic: “Framing the conservation conversation: an investigation into framing techniques for communicating biodiversity conservation” (completed 2017). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921863894901341](https://researchrepository.rmit.edu.au/esploro/outputs/9921863894901341){:target="_blank"}
 
 * Fatemeh Poodat, thesis topic: “Assessment of ecological connectivity for urban environments: A multispecies approach” (completed 2013). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921861315601341](https://researchrepository.rmit.edu.au/esploro/outputs/9921861315601341){:target="_blank"}
 
-## Current Master's students
+## Current Honours students
 
 * Luc Skibinskim, thesis topic "Evaluating the impact of Victoria’s planning exemptions on native vegetation removal in three locales".
 
