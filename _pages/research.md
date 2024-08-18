@@ -41,6 +41,9 @@ To come...
 
 * Florence Damiens, thesis topic: "Governing development, governing conservation: A genealogy of biodiversity offset politics across scales and time".
 
+## Current Honours students
+
+* Luc Skibinskim, thesis topic "Evaluating the impact of Victoria’s planning exemptions on native vegetation removal in three locales".
 
 ## Completed PhD students 
 * Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions" (completed 2023). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341](https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341){:target="_blank"}.
@@ -59,9 +62,6 @@ To come...
 
 * Fatemeh Poodat, thesis topic: “Assessment of ecological connectivity for urban environments: A multispecies approach” (completed 2013). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921861315601341](https://researchrepository.rmit.edu.au/esploro/outputs/9921861315601341){:target="_blank"}
 
-## Current Honours students
-
-* Luc Skibinskim, thesis topic "Evaluating the impact of Victoria’s planning exemptions on native vegetation removal in three locales".
 
 ## Past Master's students 
 
