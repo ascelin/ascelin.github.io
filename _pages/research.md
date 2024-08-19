@@ -31,7 +31,7 @@ To come...
 
 * James O'mahony, thesis topic: TBC.
 
-* Kylie Gordon, thesis topic: TBC.
+* Kylie Gordon, thesis topic: "The benefits of private land conservation".
 
 * Euan Brown, thesis topic: "Identifying a nature positive approach to infrastructure planning and delivery in Australia".
 
