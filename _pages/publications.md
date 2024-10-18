@@ -817,16 +817,16 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 
 1.  “Environmental impact of AI”, Interview on Hack, Triple J Radio, 15
     October 2024.
-    https://www.abc.net.au/triplej/programs/hack/world-surf-league-tyler-wright-abu-dhabi/104452456
+    <https://www.abc.net.au/triplej/programs/hack/world-surf-league-tyler-wright-abu-dhabi/104452456>
     (starting just after 21 mins)
 
 2.  “Power-hungry AI fires up Three Mile Island reactor in Microsoft
     deal” Corporate Knights, 24 September 2024.
-    https://www.corporateknights.com/category-climate/ai-three-mile-island-reactor-microsoft/
+    [https://www.corporateknights.com/category-climate/ai-three-mile-island-reactor-microsoft](https://www.corporateknights.com/category-climate/ai-three-mile-island-reactor-microsoft/)
 
 3.  “Aussie firms urged to deploy AI but limit its emissions” Daily Mail
     Australia. 7 August 2024.
-    https://www.dailymail.co.uk/wires/aap/article-13715437/Aussie-firms-urged-deploy-AI-limit-emissions.html
+    <https://www.dailymail.co.uk/wires/aap/article-13715437/Aussie-firms-urged-deploy-AI-limit-emissions.html>
 
 4.  “‘Out of sight, out of mind’: The hidden environmental danger of
     AI”. The New Daily. 3 July 2024.
@@ -851,4 +851,3 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
     policies.  
     Available at:
     <http://ec.europa.eu/environment/integration/research/newsalert/pdf/biodiversity_offset_policy_dangers_that_must_be_avoided_415na1_en.pdf>
-
