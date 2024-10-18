@@ -629,8 +629,8 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 1.  Invited Witness for The Senate Select Committee on Adopting
     Artificial Intelligence, 17 July 2024.
     <https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Adopting_Artificial_Intelligence_AI>
-    (public hearing date: 17 Jul 2024), commentary (here)[
-    https://www.rmit.edu.au/news/media-releases-and-expert-comments/2024/sep/environmental-impacts-of-ai]
+    (public hearing date: 17 Jul 2024), commentary:
+    <https://www.rmit.edu.au/news/media-releases-and-expert-comments/2024/sep/environmental-impacts-of-ai>
 
 2.  Kidd L., Backstrom A., Kusmanoff A., **Gordon A.**, Gregg E.,
     Damiens F., Thomas F., Garrard G., Kirk H., Ringma J.,Berthon K.,
