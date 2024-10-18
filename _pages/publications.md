@@ -23,8 +23,8 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 
 3.  Gutierrez A., **Gordon A.**, Bekessy SA. (2024) Challenges and
     lessons of implementing strategic environmental assessment in
-    critically endangered ecosystems. <u>*Journal of Environmental
-    Planning and Management*.</u>
+    critically endangered ecosystems. *<u>Journal of Environmental
+    Planning and Management</u>*.
     <https://doi.org/10.1080/09640568.2024.2303737>
 
 4.  O’Brien A., **Gordon A.** (2024) Evaluation of averted loss gains
