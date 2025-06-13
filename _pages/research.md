@@ -31,11 +31,9 @@ To come...
 
 * James O'mahony, thesis topic: TBC.
 
-* Kylie Gordon, thesis topic: "The benefits of private land conservation".
+* Kylie Gordon, thesis topic: "Understanding the social capital associated with privately protected areas".
 
 * Euan Brown, thesis topic: "Identifying a nature positive approach to infrastructure planning and delivery in Australia".
-
-* Dale Wright, thesis topic: "Investigating the social-ecological sustainability of coffee".
 
 * Stephanie Wong, thesis topic: "Deforestation spillover in impact evaluation of conservation interventions".
 
@@ -46,6 +44,9 @@ To come...
 * Luc Skibinskim, thesis topic "Evaluating the impact of Victoria’s planning exemptions on native vegetation removal in three locales".
 
 ## Completed PhD students 
+
+* Dale Wright, thesis topic: "Investigating the social-ecological sustainability of coffee". (completed 2025). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/Investigating_the_Social-ecological_Sustainability_of_Coffee/28746773?file=53483456){:target="_blank"}.
+
 * Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions" (completed 2023). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341](https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341){:target="_blank"}.
 
 * Marco Gutiérrez, thesis topic: "Biodiversity and ecosystem services in strategic environmental assessment: evaluating outcomes, challenges, and opportunities" (completed 2022). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9922177313301341](https://researchrepository.rmit.edu.au/esploro/outputs/9922177313301341){:target="_blank"}.
