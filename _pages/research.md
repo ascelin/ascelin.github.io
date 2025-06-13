@@ -47,9 +47,9 @@ To come...
 
 * Dale Wright, thesis topic: "Investigating the social-ecological sustainability of coffee". (completed 2025). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/Investigating_the_Social-ecological_Sustainability_of_Coffee/28746773?file=53483456){:target="_blank"}.
 
-* Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions" (completed 2023). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341](https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Measuring-and-predicting-the-impact-of/9922270807901341){:target="_blank"}.
+* Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions" (completed 2023). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/Measuring_and_predicting_the_impact_of_private_protected_areas/27599973?file=50797095){:target="_blank"}.
 
-* Marco Gutiérrez, thesis topic: "Biodiversity and ecosystem services in strategic environmental assessment: evaluating outcomes, challenges, and opportunities" (completed 2022). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9922177313301341](https://researchrepository.rmit.edu.au/esploro/outputs/9922177313301341){:target="_blank"}.
+* Marco Gutiérrez, thesis topic: "Biodiversity and ecosystem services in strategic environmental assessment: evaluating outcomes, challenges, and opportunities" (completed 2022). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/Biodiversity_and_ecosystem_services_in_strategic_environmental_assessment_evaluating_outcomes_challenges_and_opportunities/27597039){:target="_blank"}.
 
 * Matthew Selinske, thesis topic: “Advancing the integration of human behaviour into biodiversity decision-making” (completed 2019). Thesis available at
 [https://researchrepository.rmit.edu.au/esploro/outputs/9921863851801341](https://researchrepository.rmit.edu.au/esploro/outputs/9921863851801341){:target="_blank"}.
