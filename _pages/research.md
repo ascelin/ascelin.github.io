@@ -29,13 +29,13 @@ To come...
 
 ## Current PhD students 
 
-* James O'mahony, thesis topic: TBC.
+* James O'mahony, thesis topic: "The application of GIS combined with Ecoacoustic methods to measure Biodiversity across urban areas in Australia".
 
 * Kylie Gordon, thesis topic: "Understanding the social capital associated with privately protected areas".
 
 * Euan Brown, thesis topic: "Identifying a nature positive approach to infrastructure planning and delivery in Australia".
 
-* Stephanie Wong, thesis topic: "Deforestation spillover in impact evaluation of conservation interventions".
+* Stephanie Wong, thesis topic: "Spillover effects in impact evaluation of conservation interventions".
 
 ## Completed PhD students 
 
