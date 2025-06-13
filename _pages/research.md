@@ -51,29 +51,29 @@ To come...
 [here](https://research-repository.rmit.edu.au/articles/thesis/Advancing_the_integration_of_human_behaviour_into_biodiversity_decision-making/27581403?file=50754006){:target="_blank"}.
 
 * Vira Koshkina, thesis topic: “Stochastic ecological models for predicting species distribution and extinction” (completed 2019).  Thesis available 
-[here](https://research-repository.rmit.edu.au/articles/thesis/Stochastic_ecological_models_for_predicting_species_distribution_and_extinction/27590955?file=50761260){:target="_blank"}
+[here](https://research-repository.rmit.edu.au/articles/thesis/Stochastic_ecological_models_for_predicting_species_distribution_and_extinction/27590955?file=50761260){:target="_blank"}.
 
-* Mat Hardy, thesis topic: “A revolution in conservation funding: exploring the use of revolving funds to protect nature on private land” (completed 2017). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/A_revolution_in_conservation_funding_exploring_the_use_of_revolving_funds_to_protect_nature_on_private_land/27590292?file=50760528){:target="_blank"}
+* Mat Hardy, thesis topic: “A revolution in conservation funding: exploring the use of revolving funds to protect nature on private land” (completed 2017). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/A_revolution_in_conservation_funding_exploring_the_use_of_revolving_funds_to_protect_nature_on_private_land/27590292?file=50760528){:target="_blank"}.
 
-* Alex Kusmanoff, thesis topic: “Framing the conservation conversation: an investigation into framing techniques for communicating biodiversity conservation” (completed 2017). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/Framing_the_conservation_conversation_an_investigation_into_framing_techniques_for_communicating_biodiversity_conservation/27589734){:target="_blank"}
+* Alex Kusmanoff, thesis topic: “Framing the conservation conversation: an investigation into framing techniques for communicating biodiversity conservation” (completed 2017). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/Framing_the_conservation_conversation_an_investigation_into_framing_techniques_for_communicating_biodiversity_conservation/27589734){:target="_blank"}.
 
-* Fatemeh Poodat, thesis topic: “Assessment of ecological connectivity for urban environments: A multispecies approach” (completed 2013). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/Assessment_of_ecological_connectivity_for_urban_environments_A_multispecies_approach/27340620){:target="_blank"}
+* Fatemeh Poodat, thesis topic: “Assessment of ecological connectivity for urban environments: A multispecies approach” (completed 2013). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/Assessment_of_ecological_connectivity_for_urban_environments_A_multispecies_approach/27340620){:target="_blank"}.
 
 
 ## Past Master's students 
 
 * Adam Dzunko, thesis topic: "Assessing Eastern Ground Parrot (Pezoporus wallicus wallicus) populations in the Marlo and Cape Conran area following the 2019/20 bushfires" (completed 2021). Master's thesis.
  
-* Anna O'Brien, thesis topic: “Critical review of assumptions of gains in biodiversity under Victorian offsetting policy" (completed 2020). Master's thesis. Thesis available at [https://doi.org/10.31219/osf.io/nv4za](https://doi.org/10.31219/osf.io/nv4za){:target="_blank"}
+* Anna O'Brien, thesis topic: “Critical review of assumptions of gains in biodiversity under Victorian offsetting policy" (completed 2020). Master's thesis. Thesis available at [https://doi.org/10.31219/osf.io/nv4za](https://doi.org/10.31219/osf.io/nv4za){:target="_blank"}.
 
 * Travis Ittensohn, thesis topic: “Measuring Biodiversity Impacts and Priorities in Relation to Urban Expansion at the National Scale” (completed 2017). Master's thesis.
 
 * David Attard, thesis topic: “Evaluating Melbourne’s newest conservation areas for a set of threatened species using the Zonation Conservation Planning Tool” (completed 2013). Master's thesis.
 
 ## Past Honours students
-* Luc Skibinskim, thesis topic "Evaluating the impact of Victoria’s planning exemptions on native vegetation removal in three locales" (completed 2024)
+* Luc Skibinskim, thesis topic "Evaluating the impact of Victoria’s planning exemptions on native vegetation removal in three locales" (completed 2024).
 
-* Cameron Beetham, thesis topoic "Citizen Science in Victorian Native Grasslands"  (completed 2021)
+* Cameron Beetham, thesis topic "Citizen Science in Victorian Native Grasslands" (completed 2021).
 
 [BCT-link]:https://www.bct.nsw.gov.au/
 [SLATS-NSW]:https://www.environment.nsw.gov.au/topics/animals-and-plants/native-vegetation/landcover-monitoring-and-reporting/woody-vegetation-change-statewide-landcover-tree-study/more-about-slats
