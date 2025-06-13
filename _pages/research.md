@@ -37,31 +37,27 @@ To come...
 
 * Stephanie Wong, thesis topic: "Deforestation spillover in impact evaluation of conservation interventions".
 
-* Florence Damiens, thesis topic: "Governing development, governing conservation: A genealogy of biodiversity offset politics across scales and time".
-
-## Current Honours students
-
-* Luc Skibinskim, thesis topic "Evaluating the impact of Victoria’s planning exemptions on native vegetation removal in three locales".
-
 ## Completed PhD students 
 
 * Dale Wright, thesis topic: "Investigating the social-ecological sustainability of coffee". (completed 2025). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/Investigating_the_Social-ecological_Sustainability_of_Coffee/28746773?file=53483456){:target="_blank"}.
+
+* Florence Damiens, thesis topic: "Governing development, governing conservation: A genealogy of biodiversity offset politics across scales and time". (completed 2024)  Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/Governing_Development_Governing_Conservation_A_Genealogy_of_Biodiversity_Offset_Politics_Across_Scales_and_Time/27677076?file=50675334){:target="_blank"}.
 
 * Roshan Sharma, thesis topic: "Improving impact evaluation for conservation policies and interventions" (completed 2023). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/Measuring_and_predicting_the_impact_of_private_protected_areas/27599973?file=50797095){:target="_blank"}.
 
 * Marco Gutiérrez, thesis topic: "Biodiversity and ecosystem services in strategic environmental assessment: evaluating outcomes, challenges, and opportunities" (completed 2022). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/Biodiversity_and_ecosystem_services_in_strategic_environmental_assessment_evaluating_outcomes_challenges_and_opportunities/27597039){:target="_blank"}.
 
-* Matthew Selinske, thesis topic: “Advancing the integration of human behaviour into biodiversity decision-making” (completed 2019). Thesis available at
-[https://researchrepository.rmit.edu.au/esploro/outputs/9921863851801341](https://researchrepository.rmit.edu.au/esploro/outputs/9921863851801341){:target="_blank"}.
+* Matthew Selinske, thesis topic: “Advancing the integration of human behaviour into biodiversity decision-making” (completed 2019). Thesis available 
+[here](https://research-repository.rmit.edu.au/articles/thesis/Advancing_the_integration_of_human_behaviour_into_biodiversity_decision-making/27581403?file=50754006){:target="_blank"}.
 
-* Vira Koshkina, thesis topic: “Stochastic ecological models for predicting species distribution and extinction” (completed 2019).  Thesis available at
-[https://researchrepository.rmit.edu.au/esploro/outputs/9921864050001341](https://researchrepository.rmit.edu.au/esploro/outputs/9921864050001341){:target="_blank"}
+* Vira Koshkina, thesis topic: “Stochastic ecological models for predicting species distribution and extinction” (completed 2019).  Thesis available 
+[here](https://research-repository.rmit.edu.au/articles/thesis/Stochastic_ecological_models_for_predicting_species_distribution_and_extinction/27590955?file=50761260){:target="_blank"}
 
-* Mat Hardy, thesis topic: “A revolution in conservation funding: exploring the use of revolving funds to protect nature on private land” (completed 2017). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921864032701341](https://researchrepository.rmit.edu.au/esploro/outputs/9921864032701341){:target="_blank"}
+* Mat Hardy, thesis topic: “A revolution in conservation funding: exploring the use of revolving funds to protect nature on private land” (completed 2017). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/A_revolution_in_conservation_funding_exploring_the_use_of_revolving_funds_to_protect_nature_on_private_land/27590292?file=50760528){:target="_blank"}
 
-* Alex Kusmanoff, thesis topic: “Framing the conservation conversation: an investigation into framing techniques for communicating biodiversity conservation” (completed 2017). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921863894901341](https://researchrepository.rmit.edu.au/esploro/outputs/9921863894901341){:target="_blank"}
+* Alex Kusmanoff, thesis topic: “Framing the conservation conversation: an investigation into framing techniques for communicating biodiversity conservation” (completed 2017). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/Framing_the_conservation_conversation_an_investigation_into_framing_techniques_for_communicating_biodiversity_conservation/27589734){:target="_blank"}
 
-* Fatemeh Poodat, thesis topic: “Assessment of ecological connectivity for urban environments: A multispecies approach” (completed 2013). Thesis available at [https://researchrepository.rmit.edu.au/esploro/outputs/9921861315601341](https://researchrepository.rmit.edu.au/esploro/outputs/9921861315601341){:target="_blank"}
+* Fatemeh Poodat, thesis topic: “Assessment of ecological connectivity for urban environments: A multispecies approach” (completed 2013). Thesis available [here](https://research-repository.rmit.edu.au/articles/thesis/Assessment_of_ecological_connectivity_for_urban_environments_A_multispecies_approach/27340620){:target="_blank"}
 
 
 ## Past Master's students 
@@ -73,6 +69,11 @@ To come...
 * Travis Ittensohn, thesis topic: “Measuring Biodiversity Impacts and Priorities in Relation to Urban Expansion at the National Scale” (completed 2017). Master's thesis.
 
 * David Attard, thesis topic: “Evaluating Melbourne’s newest conservation areas for a set of threatened species using the Zonation Conservation Planning Tool” (completed 2013). Master's thesis.
+
+## Past Honours students
+* Luc Skibinskim, thesis topic "Evaluating the impact of Victoria’s planning exemptions on native vegetation removal in three locales" (completed 2024)
+
+* Cameron Beetham, thesis topoic "Citizen Science in Victorian Native Grasslands"  (completed 2021)
 
 [BCT-link]:https://www.bct.nsw.gov.au/
 [SLATS-NSW]:https://www.environment.nsw.gov.au/topics/animals-and-plants/native-vegetation/landcover-monitoring-and-reporting/woody-vegetation-change-statewide-landcover-tree-study/more-about-slats
