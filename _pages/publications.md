@@ -11,7 +11,7 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 1.  **Gordon A.**, Curtsdotter A., Oliver I., Hernandez S., Cox M.,
     Dorrough J. (2025) Five years of offsetting native vegetation:
     risks, uncertainties and challenges for achieving no-net-loss.
-    Ecological Indicators.
+    <u>*Ecological Indicators</u>*.
     <https://doi.org/10.1016/j.ecolind.2025.114180>
 
 2.  Sharma R., Jones S., Bastin L., **Gordon A.** (2025) Private protected
