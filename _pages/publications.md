@@ -11,7 +11,7 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 1.  **Gordon A.**, Curtsdotter A., Oliver I., Hernandez S., Cox M.,
     Dorrough J. (2025) Five years of offsetting native vegetation:
     risks, uncertainties and challenges for achieving no-net-loss.
-    *<u>Ecological Indicators</u>*.
+    <u>*Ecological Indicators*</u>.
     <https://doi.org/10.1016/j.ecolind.2025.114180>
 
 2.  Sharma R., Jones S., Bastin L., **Gordon A.** (2025) Private protected
@@ -29,7 +29,7 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 4.  Wright D.R., **Gordon A.**, Bennett R.E., Selinske, M.J., Lentini
     P.E., Garrard, G.E., Rodewald, A.D., Bekessy S. (2024) Biodiverse
     coffee plantations provide co-benefits without compromising yield.
-    *<u>Journal of Sustainable Agriculture and Environment</u>*.
+    <u>*Journal of Sustainable Agriculture and Environment*</u>.
     <https://doi.org/10.1002/sae2.70005>
 
 5.  Wright D.R., Bekessy S.A., Lentini P. Garrard G., **Gordon A.**,
@@ -42,7 +42,7 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 6.  Gutierrez A., **Gordon A.**, Bekessy SA. (2024) Challenges and
     lessons of implementing strategic environmental assessment in
     critically endangered ecosystems. <u>*Journal of Environmental
-    Planning and Management*.</u>
+    Planning and Management*</u>.
     <https://doi.org/10.1080/09640568.2024.2303737>
 
 7.  O’Brien A., **Gordon A.** (2024) Evaluation of averted loss gains
