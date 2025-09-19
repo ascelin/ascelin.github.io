@@ -9,9 +9,8 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 ## Refereed Journal Articles 
 
 1.  **Gordon A.**, Curtsdotter A., Oliver I., Hernandez S., Cox M.,
-    Dorrough J. (2025) Five years of offsetting native vegetation:
-    risks, uncertainties and challenges for achieving no-net-loss.
-    <u>*Ecological Indicators*</u>.
+    Dorrough J. (2025) Five years of offsetting native vegetation: The challenge of achieving no-net-loss.
+    *<u>Ecological Indicators</u>*.
     <https://doi.org/10.1016/j.ecolind.2025.114180>
 
 2.  Sharma R., Jones S., Bastin L., **Gordon A.** (2025) Private protected
@@ -23,13 +22,13 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 3.  Wright D.R., Bekessy S.A., **Gordon A.**, Bennett R.E., Rodewald
     A.D., Garrard G.E., Lentini P.E., Selinske, M.J. (2025) The critical
     role of retailers in leveraging sustainability transformations in a
-    global supply chain. <u>*Corporate Social Responsibility and
-    Environmental Management*.</u> <http://doi.org/10.1002/csr.3136>
+    global supply chain. *<u>Corporate Social Responsibility and
+    Environmental Management</u>*. <http://doi.org/10.1002/csr.3136>
 
 4.  Wright D.R., **Gordon A.**, Bennett R.E., Selinske, M.J., Lentini
     P.E., Garrard, G.E., Rodewald, A.D., Bekessy S. (2024) Biodiverse
     coffee plantations provide co-benefits without compromising yield.
-    <u>*Journal of Sustainable Agriculture and Environment*</u>.
+    *<u>Journal of Sustainable Agriculture and Environment</u>*.
     <https://doi.org/10.1002/sae2.70005>
 
 5.  Wright D.R., Bekessy S.A., Lentini P. Garrard G., **Gordon A.**,
@@ -670,7 +669,7 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
     stewardship of privately protected areas. doi:
     10.31219/osf.io/znsdq. Available at <https://osf.io/znsdq>. 3 pages.
 
-5.  Faulkner R., Corney H., Damiens F., Kusmanoff A., **Gordon A.**,
+5.  Faulkner R., Corney H., Damiens F., Kusmanoff A.,**Gordon A.**,
     Hardy M., Backstrom A., Mata L., Mumaw L., Selinske M., Hartridge
     S., van Wijnen S., Smith T., Garrard G., Peterson I., Torabi N.,
     Bekessy S. (2016) Comments on the Draft National Recovery Plan for
