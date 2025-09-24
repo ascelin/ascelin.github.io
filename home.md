@@ -28,8 +28,8 @@ feature_row:
   - image_path: #/assets/images/mm-free-feature.png
     alt: ""
     title: "Recent blog post:"
-    excerpt: "The hidden costs of the AI boom."
-    url: "/blog/the-hidden-cost-of-the-AI-boom/"
+    excerpt: "Five years of offsetting native vegetation: The challenge of achieving no-net-loss."
+    url: "/blog/the-challenge-of-achieving-no-net-loss/"
     btn_class: "btn--primary"
     btn_label: "See here"      
 ---
