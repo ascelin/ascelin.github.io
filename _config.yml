@@ -82,6 +82,9 @@ author:
     - label: "@nilecsa"
       icon: "fab fa-fw fa-tiktok"
       url: "https://TikTok.com/@nilecsa"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/jawapitu"
 
 footer:
   links:
