@@ -1,5 +1,5 @@
 ---
-title: "New publication: Five years of offsetting native vegetation: The challenge of achieving no-net-loss"
+title: "New publication — Five years of offsetting native vegetation: The challenge of achieving no-net-loss"
 date: 2025-09-24
 categories:
   - Blog
