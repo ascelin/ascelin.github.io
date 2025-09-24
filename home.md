@@ -14,7 +14,7 @@ feature_row:
   - image_path: #/assets/images/mm-responsive-feature.png
     alt: ""
     title: "My research areas"
-    excerpt: "Conservation Science, Ecological Modelling, Impact Evaluation, Conservation Policy."
+    excerpt: "Conservation Science, Ecological Modelling, Impact Evaluation, Conservation Policy, Private Land Conservation."
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Read more about my research"
