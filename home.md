@@ -27,8 +27,8 @@ feature_row:
     btn_label: "Read more about my research"
   - image_path: #/assets/images/mm-free-feature.png
     alt: ""
-    title: "Recent blog post:"
-    excerpt: "Five years of offsetting native vegetation: The challenge of achieving no-net-loss."
+    title: "Most recent blog post:"
+    excerpt: "New paper: Five years of offsetting native vegetation: The challenge of achieving no-net-loss."
     url: "/blog/the-challenge-of-achieving-no-net-loss/"
     btn_class: "btn--primary"
     btn_label: "See here"      
