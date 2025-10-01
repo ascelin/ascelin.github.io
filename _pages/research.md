@@ -29,7 +29,7 @@ To come...
 
 ## Current PhD students 
 
-* James O'mahony, thesis topic: "The application of GIS combined with Ecoacoustic methods to measure Biodiversity across urban areas in Australia".
+* James O'mahony, thesis topic: "Enhancing Passive Acoustic Monitoring (PAM) for urban bird conservation: Methodological refinement and application in Melbourne's public reserves".
 
 * Kylie Gordon, thesis topic: "Understanding the social capital associated with privately protected areas".
 
