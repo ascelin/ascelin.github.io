@@ -833,11 +833,11 @@ Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-ar
 ***Media***
 
 1.  “Calls for guidelines after Greater Western Water documents reveal
-    potential data centre water usage” ABC News, 15 July 2025
+    potential data centre water usage” ABC News, 15 July 2025.
     <https://www.abc.net.au/news/2025-07-15/greater-western-water-data-centre-proposals-foi/105529020>
 
 2.  “Young Australians are refusing to use AI for fear of what it will
-    do to the planet - and experts aren't surprised” 9News. Jul 9, 2025
+    do to the planet - and experts aren't surprised” 9News. Jul 9, 2025.
     <https://www.9news.com.au/national/generative-ai-environmental-impact-concerns-eco-anxiety/6303df5a-2d18-43ca-9e82-424028a99ab9>
 
 3.  “Environmental impact of AI”, Interview on Hack, Triple J Radio, 15
