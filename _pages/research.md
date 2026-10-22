@@ -29,7 +29,7 @@ To come...
 
 ## Current PhD students 
 
-* Gabriel Thelan, thesis topic: Establishment of a holistic, eco-agricultural habitation structure on Mars, as a
+* Gabriel Thelan, thesis topic: "Establishment of a holistic, eco-agricultural habitation structure on Mars, as a
 self-sustaining, resilient environment, to support a thriving human society".
 
 * James O'mahony, thesis topic: "Enhancing Passive Acoustic Monitoring (PAM) for urban bird conservation: Methodological refinement and application in Melbourne's public reserves".
