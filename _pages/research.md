@@ -29,13 +29,15 @@ To come...
 
 ## Current PhD students 
 
+* Gabriel Thelan, thesis topic: Establishment of a holistic, eco-agricultural habitation structure on Mars, as a
+self-sustaining, resilient environment, to support a thriving human society".
+
 * James O'mahony, thesis topic: "Enhancing Passive Acoustic Monitoring (PAM) for urban bird conservation: Methodological refinement and application in Melbourne's public reserves".
 
-* Kylie Gordon, thesis topic: "Understanding the social capital associated with privately protected areas".
-
-* Euan Brown, thesis topic: "Identifying a nature positive approach to infrastructure planning and delivery in Australia".
+* Kylie Gordon, thesis topic: "Social Capital and Privately Protected Areas".
 
 * Stephanie Wong, thesis topic: "Spillover effects in impact evaluation of conservation interventions".
+
 
 ## Completed PhD students 
 
